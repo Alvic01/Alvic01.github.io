@@ -9,10 +9,21 @@
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
         integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
     <title>Map of Brittany</title>
+    <link rel="shortcut icon" href="./drapeau Bretagne.webp">
+    <style>
+        body {
+            background-color: black;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            color: white;
+        }
+    </style>
 </head>
 
 <body>
-    <div id="map" style="height: 400px;"></div>
+    <h1
+        style=" text-align: center; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; color: white;">
+        Where can I buy Keltia magazine ? </h1>
+    <div id="map" style="height: 400px; border-radius: 20px;"></div>
     <script>
         var map = L.map('map').setView([48.040897, -1.707289], 10);
 
@@ -23,6 +34,57 @@
         L.marker([51.5, -0.09]).addTo(map)
             .bindPopup('A pretty CSS popup.<br> Easily customizable.')
     </script>
+    <h2
+        style="text-align: center; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; color: white;">
+        Test your knowledge about the world of the Celts !
+    </h2>
+    <form id="quizzForm"
+        style="text-align: center; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; color: white;">
+        <div>
+            <p>1. Which of these goddesses is a Celtic goddess ?</p>
+            <label>
+                <input type="radio" name="question 1" value="a"> A. Damona
+            </label><br>
+            <label>
+                <input type="radio" name="question 1" value="b"> B. Demeter
+            </label><br>
+            <label>
+                <input type="radio" name="question 1" value="c"> C. Venus
+            </label><br>
+        </div>
+
+        <div>
+            <p>2. What is the most famous alcohol of the Celtic world ?</p>
+            <label>
+                <input type="radio" name="question 2" value="a"> A. Cider
+            </label><br>
+            <label>
+                <input type="radio" name="question 2" value="b"> B. Beer
+            </label><br>
+            <label>
+                <input type="radio" name="question 2" value="c"> C. Mead
+            </label><br>
+        </div>
+
+        <div>
+            <p>3. Who were the bards ?</p>
+            <label>
+                <input type="radio" name="question 3" value="a"> A. Poets, musicians and storytellers who transmitted.
+                oral traditions, myths...
+            </label><br>
+            <label>
+                <input type="radio" name="question 3" value="b"> B. Healers who treated through botany and magic.
+            </label><br>
+            <label>
+                <input type="radio" name="question 3" value="c"> C. Warriors tasked with protecting the tribes.
+            </label><br>
+        </div>
+        <button type="button" onclick="checkAnswers()">submit</button>
+    </form>
+    <div id="result"></div>
+
+    <script src="script.js"></script>
+
 </body>
 
 </html>
