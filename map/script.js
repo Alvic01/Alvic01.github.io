@@ -2,6 +2,8 @@ function checkAnswers() {
     let score = 0;
     const totalQuestions = 3;
 
+    console.log("HTML chargé :", document.body.innerHTML);
+
 
     const q1 = document.querySelector('input[name="question1"]:checked');
 
