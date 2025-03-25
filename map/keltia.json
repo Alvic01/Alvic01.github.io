@@ -1,0 +1,4178 @@
+[
+  {
+    "place_id": 251760459,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3259368980,
+    "boundingbox": [
+      "48.5221286",
+      "48.5222286",
+      "-2.7289698",
+      "-2.7288698"
+    ],
+    "lat": "48.5221786",
+    "lon": "-2.7289198",
+    "display_name": "79, Rue de la République, Cesson, Saint-Brieuc, Côtes-d'Armor, Brittany, Metropolitan France, 22000, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 251747519,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3261179331,
+    "boundingbox": [
+      "48.5088741",
+      "48.5089741",
+      "-2.7538657",
+      "-2.7537657"
+    ],
+    "lat": "48.5089241",
+    "lon": "-2.7538157",
+    "display_name": "77, Rue de Gouédic, Gouédic, Saint-Brieuc, Côtes-d'Armor, Brittany, Metropolitan France, 22000, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 251801952,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 7357040197,
+    "boundingbox": [
+      "48.4546102",
+      "48.4547102",
+      "-2.048683",
+      "-2.048583"
+    ],
+    "lat": "48.4546602",
+    "lon": "-2.048633",
+    "display_name": "6, Rue Thiers, La Gare, Dinan, Côtes-d'Armor, Brittany, Metropolitan France, 22100, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 251803464,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3801040133,
+    "boundingbox": [
+      "48.4536744",
+      "48.4537744",
+      "-2.043085",
+      "-2.042985"
+    ],
+    "lat": "48.4537244",
+    "lon": "-2.043035",
+    "display_name": "Tabac - Presse, 14, Rue de l'Apport, Intra-Muros, Dinan, Côtes-d'Armor, Brittany, Metropolitan France, 22100, France",
+    "class": "shop",
+    "type": "newsagent",
+    "importance": 0.7200099999999999
+  },
+  {
+    "place_id": 343394288,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1243377411,
+    "boundingbox": [
+      "48.4490037",
+      "48.4510896",
+      "-2.0690413",
+      "-2.0654283"
+    ],
+    "lat": "48.4506869",
+    "lon": "-2.0674602",
+    "display_name": "Rue de Brest, Léhon, Dinan, Côtes-d'Armor, Brittany, Metropolitan France, 22100, France",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 251801985,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3845789947,
+    "boundingbox": [
+      "48.4563809",
+      "48.4564809",
+      "-2.0516405",
+      "-2.0515405"
+    ],
+    "lat": "48.4564309",
+    "lon": "-2.0515905",
+    "display_name": "21, Rue Carnot, La Gare, Dinan, Côtes-d'Armor, Brittany, Metropolitan France, 22100, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 251801549,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 7354924969,
+    "boundingbox": [
+      "48.4539483",
+      "48.4540483",
+      "-2.0512458",
+      "-2.0511458"
+    ],
+    "lat": "48.4539983",
+    "lon": "-2.0511958",
+    "display_name": "33, Rue des Rouairies, La Gare, Dinan, Côtes-d'Armor, Brittany, Metropolitan France, 22100, France",
+    "class": "shop",
+    "type": "tobacco",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 251804043,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1448898776,
+    "boundingbox": [
+      "48.4546755",
+      "48.4547755",
+      "-2.0275974",
+      "-2.0274974"
+    ],
+    "lat": "48.4547255",
+    "lon": "-2.0275474",
+    "display_name": "Le Colombier, 42, Rue de Rennes, Rehannet, Lanvallay, Dinan, Côtes-d'Armor, Brittany, Metropolitan France, 22100, France",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 251895994,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4261531959,
+    "boundingbox": [
+      "48.237701",
+      "48.237801",
+      "-3.3132129",
+      "-3.3131129"
+    ],
+    "lat": "48.237751",
+    "lon": "-3.3131629",
+    "display_name": "1, Rue Chateaubriand, Ar Faouedig, Toull ar Goañv, Rostrenen, Guingamp, Côtes-d'Armor, Brittany, Metropolitan France, 22110, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 251895483,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 594506212,
+    "boundingbox": [
+      "48.2413382",
+      "48.2423275",
+      "-3.3000652",
+      "-3.297301"
+    ],
+    "lat": "48.2420747",
+    "lon": "-3.2981057",
+    "display_name": "Route de Rostrenen, Kerauffret, Plouguernével, Guingamp, Côtes-d'Armor, Brittany, Metropolitan France, 22110, France",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.41001
+  },
+  {
+    "place_id": 251796328,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4163592232,
+    "boundingbox": [
+      "48.5223944",
+      "48.5224944",
+      "-2.2342961",
+      "-2.2341961"
+    ],
+    "lat": "48.5224444",
+    "lon": "-2.2342461",
+    "display_name": "17, Rue du Pont, Le Verger, Plancoët, Dinan, Côtes-d'Armor, Brittany, Metropolitan France, 22130, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 251999225,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 40539467,
+    "boundingbox": [
+      "48.6262628",
+      "48.6309202",
+      "-3.3012273",
+      "-3.301125"
+    ],
+    "lat": "48.6286394",
+    "lon": "-3.3012222",
+    "display_name": "Rue Anatole le Braz, Koad Bear, Gwenezhan, Bégard, Guingamp, Côtes-d'Armor, Brittany, Metropolitan France, 22140, France",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.7100099999999999
+  },
+  {
+    "place_id": 251876304,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 10010756214,
+    "boundingbox": [
+      "48.407201",
+      "48.407301",
+      "-3.430592",
+      "-3.430492"
+    ],
+    "lat": "48.407251",
+    "lon": "-3.430542",
+    "display_name": "4, Rue Lavanant, Kerret, Callac, Guingamp, Côtes-d'Armor, Brittany, Metropolitan France, 22160, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 251756041,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 144816015,
+    "boundingbox": [
+      "48.524638",
+      "48.524726",
+      "-2.745671",
+      "-2.745453"
+    ],
+    "lat": "48.524684",
+    "lon": "-2.7455614416666663",
+    "display_name": "Les Mouettes, 2, Quai Gabriel Péri, Le Légué, Plérin, Saint-Brieuc, Côtes-d'Armor, Brittany, Metropolitan France, 22190, France",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.4200099999999999
+  },
+  {
+    "place_id": 251759879,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 425768502,
+    "boundingbox": [
+      "48.5427743",
+      "48.5427839",
+      "-2.7321667",
+      "-2.7316788"
+    ],
+    "lat": "48.5427743",
+    "lon": "-2.7316788",
+    "display_name": "Rue Jean Bart, Saint-Laurent de la Mer, Plérin, Saint-Brieuc, Côtes-d'Armor, Brittany, Metropolitan France, 22190, France",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 251984220,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 11028534300,
+    "boundingbox": [
+      "48.557065",
+      "48.557165",
+      "-3.150268",
+      "-3.150168"
+    ],
+    "lat": "48.557115",
+    "lon": "-3.150218",
+    "display_name": "3, Route de Corlay, Moulin des Salles, Guingamp, Côtes-d'Armor, Brittany, Metropolitan France, 22200, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 344430612,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1247126566,
+    "boundingbox": [
+      "48.1749439",
+      "48.1751718",
+      "-2.5749977",
+      "-2.5746928"
+    ],
+    "lat": "48.1750714",
+    "lon": "-2.5747879",
+    "display_name": "Rue de Rennes, Goudebin, Le Pont Losquet, Plémet, Saint-Brieuc, Côtes-d'Armor, Brittany, Metropolitan France, 22210, France",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.5100099999999999
+  },
+  {
+    "place_id": 252019716,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 77949147,
+    "boundingbox": [
+      "48.7870646",
+      "48.7872552",
+      "-3.2303059",
+      "-3.2300511"
+    ],
+    "lat": "48.78714955",
+    "lon": "-3.2301839560146446",
+    "display_name": "9, Place du Martray, Tréguier, Lannion, Côtes-d'Armor, Brittany, Metropolitan France, 22220, France",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 252019283,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 26535843,
+    "boundingbox": [
+      "48.7784127",
+      "48.7804443",
+      "-3.2438803",
+      "-3.2340224"
+    ],
+    "lat": "48.7799793",
+    "lon": "-3.2393058",
+    "display_name": "Chemin de la Corderie, Tréguier, Lannion, Côtes-d'Armor, Brittany, Metropolitan France, 22220, France",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 251996933,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3201834924,
+    "boundingbox": [
+      "48.6971397",
+      "48.6972397",
+      "-3.1589864",
+      "-3.1588864"
+    ],
+    "lat": "48.6971897",
+    "lon": "-3.1589364",
+    "display_name": "8, Place Yves Le Trocquer, Le Coz Ilis, Pontrieux, Guingamp, Côtes-d'Armor, Brittany, Metropolitan France, 22260, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.7200099999999999
+  },
+  {
+    "place_id": 251727417,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1085700084,
+    "boundingbox": [
+      "48.6314759",
+      "48.6328026",
+      "-2.9856259",
+      "-2.982495"
+    ],
+    "lat": "48.6319809",
+    "lon": "-2.984205",
+    "display_name": "Rue Sainte-Anne, Lanvollon, Guingamp, Côtes-d'Armor, Brittany, Metropolitan France, 22290, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 251727394,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 26507050,
+    "boundingbox": [
+      "48.6301959",
+      "48.6326531",
+      "-2.9854646",
+      "-2.9805485"
+    ],
+    "lat": "48.6313774",
+    "lon": "-2.9829738",
+    "display_name": "Rue des Fontaines, Parc Artisanale de Ponlô, Lanvollon, Guingamp, Côtes-d'Armor, Brittany, Metropolitan France, 22290, France",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 252003565,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 226915706,
+    "boundingbox": [
+      "48.7466908",
+      "48.7467316",
+      "-3.4624999",
+      "-3.4618918"
+    ],
+    "lat": "48.7467316",
+    "lon": "-3.4621962",
+    "display_name": "Boulevard d'Armor, Saint-Roch, Kêr Uhel, Lannion, Côtes-d'Armor, Brittany, Metropolitan France, 22300, France",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.5100099999999999
+  },
+  {
+    "place_id": 252002756,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 121703000,
+    "boundingbox": [
+      "48.7408589",
+      "48.7432357",
+      "-3.4236795",
+      "-3.405701"
+    ],
+    "lat": "48.7425331",
+    "lon": "-3.4148494",
+    "display_name": "Route de Tréguier, Croas Teojer, Lannion, Côtes-d'Armor, Brittany, Metropolitan France, 22300, France",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.41001
+  },
+  {
+    "place_id": 252010939,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 4007014,
+    "boundingbox": [
+      "48.794208",
+      "48.7948236",
+      "-3.4134487",
+      "-3.4112022"
+    ],
+    "lat": "48.7945953",
+    "lon": "-3.4123286",
+    "display_name": "Route de Perros, Calouar Bian, Louannec, Lannion, Côtes-d'Armor, Brittany, Metropolitan France, 22700, France",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.40001
+  },
+  {
+    "place_id": 251816320,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 272996477,
+    "boundingbox": [
+      "48.2891212",
+      "48.2988255",
+      "-2.1543239",
+      "-2.1487135"
+    ],
+    "lat": "48.295169",
+    "lon": "-2.1534411",
+    "display_name": "Rue de Dinan, Les Gantelets, Caulnes, Dinan, Côtes-d'Armor, Brittany, Metropolitan France, 22350, France",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 251771228,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 2340515055,
+    "boundingbox": [
+      "48.5895601",
+      "48.5896601",
+      "-2.55379",
+      "-2.55369"
+    ],
+    "lat": "48.5896101",
+    "lon": "-2.55374",
+    "display_name": "7, Rue Amiral Charner, Le Guémadeuc, Le Val-André, Pléneuf-Val-André, Saint-Brieuc, Côtes-d'Armor, Brittany, Metropolitan France, 22370, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 251873641,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5484846098,
+    "boundingbox": [
+      "48.4740974",
+      "48.4741974",
+      "-3.186913",
+      "-3.186813"
+    ],
+    "lat": "48.4741474",
+    "lon": "-3.186863",
+    "display_name": "Mag Presse, 25, Place du Centre, Porzh Gourioù, Bourbriac, Guingamp, Côtes-d'Armor, Brittany, Metropolitan France, 22390, France",
+    "class": "shop",
+    "type": "newsagent",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 251862475,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 7691927852,
+    "boundingbox": [
+      "48.4691893",
+      "48.4692893",
+      "-2.5162283",
+      "-2.5161283"
+    ],
+    "lat": "48.4692393",
+    "lon": "-2.5161783",
+    "display_name": "La fraîcheur Desprez, 8, Rue de Lourmel, Place du Marché, Lamballe, Lamballe-Armor, Saint-Brieuc, Côtes-d'Armor, Brittany, Metropolitan France, 22400, France",
+    "class": "shop",
+    "type": "greengrocer",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 251859302,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 123144485,
+    "boundingbox": [
+      "48.4654263",
+      "48.4666423",
+      "-2.5289038",
+      "-2.5220303"
+    ],
+    "lat": "48.4659583",
+    "lon": "-2.5253322",
+    "display_name": "Rue du Docteur Lavergne, Trémillac, Lamballe, Lamballe-Armor, Saint-Brieuc, Côtes-d'Armor, Brittany, Metropolitan France, 22400, France",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.7100099999999999
+  },
+  {
+    "place_id": 251773853,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3199294585,
+    "boundingbox": [
+      "48.6294804",
+      "48.6295804",
+      "-2.4657667",
+      "-2.4656667"
+    ],
+    "lat": "48.6295304",
+    "lon": "-2.4657167",
+    "display_name": "Maison de la Presse, 7, Rue Foch, Erquy, Saint-Brieuc, Côtes-d'Armor, Brittany, Metropolitan France, 22430, France",
+    "class": "shop",
+    "type": "newsagent",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 251997757,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 278364492,
+    "boundingbox": [
+      "48.7459791",
+      "48.746188",
+      "-3.2617371",
+      "-3.2609293"
+    ],
+    "lat": "48.7461553",
+    "lon": "-3.2615999",
+    "display_name": "Place du Martray, Chef du Pont, La Roche-Derrien, La Roche-Jaudy, Lannion, Côtes-d'Armor, Brittany, Metropolitan France, 22450, France",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.8100099999999999
+  },
+  {
+    "place_id": 252022042,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 26444165,
+    "boundingbox": [
+      "48.7768688",
+      "48.7782157",
+      "-3.0436101",
+      "-3.0427787"
+    ],
+    "lat": "48.7774228",
+    "lon": "-3.0431524",
+    "display_name": "Rue Raymond Pellier, Tournebride, Paimpol, Guingamp, Côtes-d'Armor, Brittany, Metropolitan France, 22500, France",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.7100099999999999
+  },
+  {
+    "place_id": 252034727,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9813901033,
+    "boundingbox": [
+      "48.769645",
+      "48.769745",
+      "-3.57482",
+      "-3.57472"
+    ],
+    "lat": "48.769695",
+    "lon": "-3.57477",
+    "display_name": "50, Rue des Plages, Crec'h Hery, Trébeurden, Lannion, Côtes-d'Armor, Brittany, Metropolitan France, 22560, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 251733834,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 10968021786,
+    "boundingbox": [
+      "48.569974",
+      "48.570074",
+      "-2.818187",
+      "-2.818087"
+    ],
+    "lat": "48.570024",
+    "lon": "-2.818137",
+    "display_name": "10, Rue de Saint-Brieuc, Pordic, Saint-Brieuc, Côtes-d'Armor, Brittany, Metropolitan France, 22590, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 251846811,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 6066146320,
+    "boundingbox": [
+      "48.1764045",
+      "48.1765045",
+      "-2.7527441",
+      "-2.7526441"
+    ],
+    "lat": "48.1764545",
+    "lon": "-2.7526941",
+    "display_name": "10, Rue Notre-Dame, Beauséjour, Loudéac, Saint-Brieuc, Côtes-d'Armor, Brittany, Metropolitan France, 22600, France",
+    "class": "shop",
+    "type": "newsagent",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 251848726,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 47322853,
+    "boundingbox": [
+      "48.187261",
+      "48.1885708",
+      "-2.7594028",
+      "-2.7577668"
+    ],
+    "lat": "48.18799355",
+    "lon": "-2.758570365063696",
+    "display_name": "E. Leclerc, 73, Boulevard de Penthièvre, ZAC Kerd’hervé, Les Livaudières, Loudéac, Saint-Brieuc, Côtes-d'Armor, Brittany, Metropolitan France, 22600, France",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.32001
+  },
+  {
+    "place_id": 251728228,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 305088809,
+    "boundingbox": [
+      "48.6392801",
+      "48.6412436",
+      "-2.8363035",
+      "-2.8354284"
+    ],
+    "lat": "48.6403253",
+    "lon": "-2.8359028",
+    "display_name": "Boulevard des Islandais, Ponto, Étables-sur-Mer, Binic-Étables-sur-Mer, Saint-Brieuc, Côtes-d'Armor, Brittany, Metropolitan France, 22680, France",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.7100099999999999
+  },
+  {
+    "place_id": 252017015,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 547468845,
+    "boundingbox": [
+      "48.8124628",
+      "48.8125628",
+      "-3.2953866",
+      "-3.2952866"
+    ],
+    "lat": "48.8125128",
+    "lon": "-3.2953366",
+    "display_name": "Maison de la Presse, 8, Rue de la Poste, Leur Min, Penvénan, Lannion, Côtes-d'Armor, Brittany, Metropolitan France, 22710, France",
+    "class": "shop",
+    "type": "newsagent",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 252017347,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 439889721,
+    "boundingbox": [
+      "48.79503",
+      "48.797177",
+      "-3.3130937",
+      "-3.2884158"
+    ],
+    "lat": "48.7960372",
+    "lon": "-3.3005655",
+    "display_name": "Route de Tréguier, Kerizout, Penvénan, Lannion, Côtes-d'Armor, Brittany, Metropolitan France, 22710, France",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.41001
+  },
+  {
+    "place_id": 251863776,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4365367148,
+    "boundingbox": [
+      "48.490454",
+      "48.490554",
+      "-2.7380494",
+      "-2.7379494"
+    ],
+    "lat": "48.490504",
+    "lon": "-2.7379994",
+    "display_name": "Alpha Bureau, 12, Rue de la République, Trégueux, Saint-Brieuc, Côtes-d'Armor, Brittany, Metropolitan France, 22950, France",
+    "class": "shop",
+    "type": "newsagent",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 251807759,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1110335154,
+    "boundingbox": [
+      "48.434371",
+      "48.4345716",
+      "-2.2206546",
+      "-2.2199794"
+    ],
+    "lat": "48.4345151",
+    "lon": "-2.2202415",
+    "display_name": "Place de l'Église, Le Clos de la Croix, Plélan-le-Petit, Dinan, Côtes-d'Armor, Brittany, Metropolitan France, 22980, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.8100099999999999
+  },
+  {
+    "place_id": 254548644,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1095449613,
+    "boundingbox": [
+      "47.9957645",
+      "47.9958645",
+      "-4.1060691",
+      "-4.1059691"
+    ],
+    "lat": "47.9958145",
+    "lon": "-4.1060191",
+    "display_name": "5, Place Terre au Duc, Rozmaria, Locmaria, Quimper, Finistère, Brittany, Metropolitan France, 29000, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.7200099999999999
+  },
+  {
+    "place_id": 254585682,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 187928326,
+    "boundingbox": [
+      "47.9815771",
+      "47.9820514",
+      "-4.1025184",
+      "-4.1018455"
+    ],
+    "lat": "47.9818309",
+    "lon": "-4.1021658",
+    "display_name": "Route de Bénodet, Prat Maria, Kernénez, Quimper, Finistère, Brittany, Metropolitan France, 29000, France",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.41001
+  },
+  {
+    "place_id": 252196633,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 94264126,
+    "boundingbox": [
+      "48.0140967",
+      "48.0154177",
+      "-4.0814404",
+      "-4.0790558"
+    ],
+    "lat": "48.0147677",
+    "lon": "-4.080219835519125",
+    "display_name": "E. Leclerc, 150, Route de Brest, Zone commerciale de Gourvily, Kermahonnet, Quimper, Finistère, Brittany, Metropolitan France, 29000, France",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 254547996,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 23992969,
+    "boundingbox": [
+      "47.9842092",
+      "47.9846957",
+      "-4.1147118",
+      "-4.1126704"
+    ],
+    "lat": "47.9844375",
+    "lon": "-4.1137028",
+    "display_name": "Boulevard de Poulguinan, Prat Maria, Kerbabic, Kerlagatu, Quimper, Finistère, Brittany, Metropolitan France, 29000, France",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.5100099999999999
+  },
+  {
+    "place_id": 252213238,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3224048472,
+    "boundingbox": [
+      "48.0917161",
+      "48.0918161",
+      "-4.3315545",
+      "-4.3314545"
+    ],
+    "lat": "48.0917661",
+    "lon": "-4.3315045",
+    "display_name": "36, Rue Duguay-Trouin, Le Reuniat, Ploaré, Douarnenez, Quimper, Finistère, Brittany, Metropolitan France, 29100, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 252208148,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3220859102,
+    "boundingbox": [
+      "48.0941245",
+      "48.0942245",
+      "-4.3271253",
+      "-4.3270253"
+    ],
+    "lat": "48.0941745",
+    "lon": "-4.3270753",
+    "display_name": "35, Rue Voltaire, Les Plomarc'h, Ploaré, Douarnenez, Quimper, Finistère, Brittany, Metropolitan France, 29100, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 252213873,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 7311779791,
+    "boundingbox": [
+      "48.0705564",
+      "48.1105564",
+      "-4.368174",
+      "-4.328174"
+    ],
+    "lat": "48.0905564",
+    "lon": "-4.348174",
+    "display_name": "Toubalan, Pouldavid, Douarnenez, Quimper, Finistère, Brittany, Metropolitan France, 29100, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.56001
+  },
+  {
+    "place_id": 254586435,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3190750844,
+    "boundingbox": [
+      "47.8651661",
+      "47.8652661",
+      "-4.2208596",
+      "-4.2207596"
+    ],
+    "lat": "47.8652161",
+    "lon": "-4.2208096",
+    "display_name": "23, Rue du Général de Gaulle, Lambour, Douric, Pont-l'Abbé, Quimper, Finistère, Brittany, Metropolitan France, 29120, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.8200099999999999
+  },
+  {
+    "place_id": 254570519,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3218415786,
+    "boundingbox": [
+      "47.8413199",
+      "47.8414199",
+      "-4.2841931",
+      "-4.2840931"
+    ],
+    "lat": "47.8413699",
+    "lon": "-4.2841431",
+    "display_name": "12, Rue Louis Méhu, Brémillec, Plomeur, Quimper, Finistère, Brittany, Metropolitan France, 29120, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 254524649,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1022412528,
+    "boundingbox": [
+      "47.8153772",
+      "47.8157351",
+      "-4.285336",
+      "-4.2851234"
+    ],
+    "lat": "47.8157351",
+    "lon": "-4.285336",
+    "display_name": "Route du Guilvinec, Pendreff Parc Dreon, Plomeur, Quimper, Finistère, Brittany, Metropolitan France, 29120, France",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 254665539,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 99070141,
+    "boundingbox": [
+      "47.9588568",
+      "47.9589482",
+      "-3.8299674",
+      "-3.8298927"
+    ],
+    "lat": "47.9589482",
+    "lon": "-3.8298927",
+    "display_name": "Place du Boulouard, Kerantré, Rosporden, Quimper, Finistère, Brittany, Metropolitan France, 29140, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.7100099999999999
+  },
+  {
+    "place_id": 254662554,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 99241764,
+    "boundingbox": [
+      "47.9641561",
+      "47.9644346",
+      "-3.8525347",
+      "-3.8508521"
+    ],
+    "lat": "47.9644346",
+    "lon": "-3.8525347",
+    "display_name": "Route Départementale 765, Zone industrielle de Dioulan, Dioulan Bihan, Rosporden, Quimper, Finistère, Brittany, Metropolitan France, 29140, France",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.7100099999999999
+  },
+  {
+    "place_id": 252182896,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 7386142811,
+    "boundingbox": [
+      "48.1959257",
+      "48.1960257",
+      "-4.0930432",
+      "-4.0929432"
+    ],
+    "lat": "48.1959757",
+    "lon": "-4.0929932",
+    "display_name": "1, Quai Jean Moulin, L'Usine, La Carrière du Roz, Châteaulin, Finistère, Brittany, Metropolitan France, 29150, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 252183164,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 110260213,
+    "boundingbox": [
+      "48.2000656",
+      "48.2002893",
+      "-4.0894637",
+      "-4.0883239"
+    ],
+    "lat": "48.2000903",
+    "lon": "-4.0888617",
+    "display_name": "Place Kerjean, L'Usine, Lostang, Châteaulin, Finistère, Brittany, Metropolitan France, 29150, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.41001
+  },
+  {
+    "place_id": 252228333,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1912298135,
+    "boundingbox": [
+      "48.2464301",
+      "48.2465301",
+      "-4.4900922",
+      "-4.4899922"
+    ],
+    "lat": "48.2464801",
+    "lon": "-4.4900422",
+    "display_name": "9, Rue de Reims, Le Bourg, Crozon, Châteaulin, Finistère, Brittany, Metropolitan France, 29160, France",
+    "class": "shop",
+    "type": "kiosk",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 254573675,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 39991859,
+    "boundingbox": [
+      "47.889208",
+      "47.8906203",
+      "-4.0152978",
+      "-4.0141259"
+    ],
+    "lat": "47.8899376",
+    "lon": "-4.0148386",
+    "display_name": "Rue de Kernévéleck, Kerourgué, Parc Hastel, Fouesnant, Quimper, Finistère, Brittany, Metropolitan France, 29170, France",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.41001
+  },
+  {
+    "place_id": 254573815,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3201498808,
+    "boundingbox": [
+      "47.8933617",
+      "47.8934617",
+      "-4.0117957",
+      "-4.0116957"
+    ],
+    "lat": "47.8934117",
+    "lon": "-4.0117457",
+    "display_name": "24, Rue de Cornouaille, Douric Carbont, Mesyouen, Fouesnant, Quimper, Finistère, Brittany, Metropolitan France, 29170, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 252204991,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 186901777,
+    "boundingbox": [
+      "48.078442",
+      "48.0838938",
+      "-4.1948108",
+      "-4.1924716"
+    ],
+    "lat": "48.0810848",
+    "lon": "-4.1945802",
+    "display_name": "Rue de la Presqu'Île, Kerroza, Kerinou, Plogonnec, Quimper, Finistère, Brittany, Metropolitan France, 29180, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.7100099999999999
+  },
+  {
+    "place_id": 251916919,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 603157533,
+    "boundingbox": [
+      "48.2212304",
+      "48.2251897",
+      "-3.9737976",
+      "-3.9705754"
+    ],
+    "lat": "48.2228887",
+    "lon": "-3.9717396",
+    "display_name": "Rue de Quimper, Kerflouz, Pleyben, Châteaulin, Finistère, Brittany, Metropolitan France, 29190, France",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 252153011,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1688304606,
+    "boundingbox": [
+      "48.390408",
+      "48.390508",
+      "-4.4900502",
+      "-4.4899502"
+    ],
+    "lat": "48.390458",
+    "lon": "-4.4900002",
+    "display_name": "28, Rue Algésiras, Coat ar Guéven, Centre Ville, Brest, Finistère, Brittany, Metropolitan France, 29200, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.42001
+  },
+  {
+    "place_id": 252150671,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1686942970,
+    "boundingbox": [
+      "48.3868673",
+      "48.3869673",
+      "-4.486368",
+      "-4.486268"
+    ],
+    "lat": "48.3869173",
+    "lon": "-4.486318",
+    "display_name": "45, Rue du Château, Poullic-al-Lor, Centre Ville, Brest, Finistère, Brittany, Metropolitan France, 29200, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 252129249,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1702310534,
+    "boundingbox": [
+      "48.4153001",
+      "48.4154001",
+      "-4.4923164",
+      "-4.4922164"
+    ],
+    "lat": "48.4153501",
+    "lon": "-4.4922664",
+    "display_name": "2, Place des F.F.I., Goachou, Lambézellec, Brest, Finistère, Brittany, Metropolitan France, 29200, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.8200099999999999
+  },
+  {
+    "place_id": 252143433,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1693269308,
+    "boundingbox": [
+      "48.4021058",
+      "48.4022058",
+      "-4.4886572",
+      "-4.4885572"
+    ],
+    "lat": "48.4021558",
+    "lon": "-4.4886072",
+    "display_name": "47, Rue Auguste Kervern, Kérinou, Saint-Martin, Brest, Finistère, Brittany, Metropolitan France, 29200, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 252269117,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1702309953,
+    "boundingbox": [
+      "48.4036432",
+      "48.4037432",
+      "-4.507553",
+      "-4.507453"
+    ],
+    "lat": "48.4036932",
+    "lon": "-4.507503",
+    "display_name": "10, Place Napoléon III, Kergoat, Bellevue, Brest, Finistère, Brittany, Metropolitan France, 29200, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 252138667,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1692859471,
+    "boundingbox": [
+      "48.3984407",
+      "48.3985407",
+      "-4.4546863",
+      "-4.4545863"
+    ],
+    "lat": "48.3984907",
+    "lon": "-4.4546363",
+    "display_name": "135, Rue de Verdun, Le Bot, Saint-Marc, Brest, Finistère, Brittany, Metropolitan France, 29200, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 252110677,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 256764343,
+    "boundingbox": [
+      "48.4375815",
+      "48.4396164",
+      "-4.2658506",
+      "-4.2656339"
+    ],
+    "lat": "48.4385636",
+    "lon": "-4.2658163",
+    "display_name": "Route de Quimper, Kerlezerien, Landerneau, Brest, Finistère, Brittany, Metropolitan France, 29800, France",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.40001
+  },
+  {
+    "place_id": 252267127,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1702310075,
+    "boundingbox": [
+      "48.391971",
+      "48.392071",
+      "-4.5187685",
+      "-4.5186685"
+    ],
+    "lat": "48.392021",
+    "lon": "-4.5187185",
+    "display_name": "12, Place Jack London, La Cavale Blanche, Kerorven, Brest, Finistère, Brittany, Metropolitan France, 29200, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 252250905,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 33092573,
+    "boundingbox": [
+      "48.3393305",
+      "48.339716",
+      "-4.7258318",
+      "-4.7256092"
+    ],
+    "lat": "48.3395834",
+    "lon": "-4.7257572",
+    "display_name": "Rue du Stade, Kervezenoc, Plougonvelin, Brest, Finistère, Brittany, Metropolitan France, 29217, France",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 252244379,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 105735260,
+    "boundingbox": [
+      "48.3583342",
+      "48.3601156",
+      "-4.7738374",
+      "-4.7725071"
+    ],
+    "lat": "48.3592086",
+    "lon": "-4.773115",
+    "display_name": "Rue Poncelin, La Ville, Le Conquet, Brest, Finistère, Brittany, Metropolitan France, 29217, France",
+    "class": "highway",
+    "type": "living_street",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 251964916,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 660759439,
+    "boundingbox": [
+      "48.6899888",
+      "48.6901554",
+      "-3.9889671",
+      "-3.988763"
+    ],
+    "lat": "48.6900858",
+    "lon": "-3.9888651",
+    "display_name": "Rue du Budou, Cité Pen Kear, Barrière Convenant, Saint-Pol-de-Léon, Morlaix, Finistère, Brittany, Metropolitan France, 29250, France",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.8100099999999999
+  },
+  {
+    "place_id": 252085012,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 760896876,
+    "boundingbox": [
+      "48.6777071",
+      "48.677865",
+      "-4.0049659",
+      "-4.0017769"
+    ],
+    "lat": "48.6777071",
+    "lon": "-4.0039193",
+    "display_name": "Rue de Brest, Kerodel, Kervent, Saint-Pol-de-Léon, Morlaix, Finistère, Brittany, Metropolitan France, 29250, France",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.8100099999999999
+  },
+  {
+    "place_id": 252072315,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1226967837,
+    "boundingbox": [
+      "48.5759312",
+      "48.5761244",
+      "-4.3185504",
+      "-4.3185225"
+    ],
+    "lat": "48.5760033",
+    "lon": "-4.3185504",
+    "display_name": "Boulevard des Frères Lumière, Kergoniou, Lesneven, Brest, Finistère, Brittany, Metropolitan France, 29260, France",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.41001
+  },
+  {
+    "place_id": 252073648,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 130306786,
+    "boundingbox": [
+      "48.5615756",
+      "48.5638065",
+      "-4.3456074",
+      "-4.340214"
+    ],
+    "lat": "48.5625192",
+    "lon": "-4.3427801",
+    "display_name": "Route de Lanarvily, Croachou Berr, Feunteun Veas, Le Folgoët, Brest, Finistère, Brittany, Metropolitan France, 29260, France",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.5100099999999999
+  },
+  {
+    "place_id": 252243801,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 25258591,
+    "boundingbox": [
+      "48.3721088",
+      "48.3732314",
+      "-4.5913021",
+      "-4.5886604"
+    ],
+    "lat": "48.3727566",
+    "lon": "-4.5899663",
+    "display_name": "Rue des Myosotis, La Trinité, Kerallan, Plouzané, Brest, Finistère, Brittany, Metropolitan France, 29280, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.5100099999999999
+  },
+  {
+    "place_id": 252280231,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 123190618,
+    "boundingbox": [
+      "48.4328011",
+      "48.4342766",
+      "-4.622949",
+      "-4.6224985"
+    ],
+    "lat": "48.4335066",
+    "lon": "-4.6229109",
+    "display_name": "Rue Saint-Yves, Coat Manach, Toul an Aon, Saint-Renan, Brest, Finistère, Brittany, Metropolitan France, 29290, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.8100099999999999
+  },
+  {
+    "place_id": 344543624,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 11598449391,
+    "boundingbox": [
+      "47.879749",
+      "47.879849",
+      "-3.554585",
+      "-3.554485"
+    ],
+    "lat": "47.879799",
+    "lon": "-3.554535",
+    "display_name": "119, Rue du Couëdic, Keranmoulin, Kerfontaine, Quimperlé, Quimper, Finistère, Brittany, Metropolitan France, 29300, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.4200099999999999
+  },
+  {
+    "place_id": 254683034,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 7431523198,
+    "boundingbox": [
+      "47.8428049",
+      "47.8429049",
+      "-3.6937821",
+      "-3.6936821"
+    ],
+    "lat": "47.8428549",
+    "lon": "-3.6937321",
+    "display_name": "2, Rue François Cadoret, Kerco, Riec-sur-Bélon, Quimper, Finistère, Brittany, Metropolitan France, 29340, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 254681308,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5029425487,
+    "boundingbox": [
+      "47.813723",
+      "47.813823",
+      "-3.6304413",
+      "-3.6303413"
+    ],
+    "lat": "47.813773",
+    "lon": "-3.6303913",
+    "display_name": "Le Clipper, 9, Rue du Guilly, Les vergers de Saint-Philibert, Braspart, Kervaziou, Moëlan-sur-Mer, Quimper, Finistère, Brittany, Metropolitan France, 29350, France",
+    "class": "shop",
+    "type": "tobacco",
+    "importance": 0.7200099999999999
+  },
+  {
+    "place_id": 254689088,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 833314643,
+    "boundingbox": [
+      "47.7925618",
+      "47.7927405",
+      "-3.5810646",
+      "-3.5809254"
+    ],
+    "lat": "47.7926525",
+    "lon": "-3.5809941",
+    "display_name": "Rue de Lannevain, Keranguen, Lannevain, Clohars-Carnoët, Quimper, Finistère, Brittany, Metropolitan France, 29360, France",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.7100099999999999
+  },
+  {
+    "place_id": 254666605,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 8405446877,
+    "boundingbox": [
+      "47.9324462",
+      "47.9325462",
+      "-3.6966797",
+      "-3.6965797"
+    ],
+    "lat": "47.9324962",
+    "lon": "-3.6966297",
+    "display_name": "14, Rue Nationale, Résidence Eugène Cadic, Bannalec, Quimper, Finistère, Brittany, Metropolitan France, 29380, France",
+    "class": "shop",
+    "type": "e-cigarette",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 251906094,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 271511110,
+    "boundingbox": [
+      "48.0270808",
+      "48.0270951",
+      "-3.7060608",
+      "-3.7059653"
+    ],
+    "lat": "48.0270808",
+    "lon": "-3.7060608",
+    "display_name": "Rue Jean Jaurès, La Source, Scaër, Quimper, Finistère, Brittany, Metropolitan France, 29390, France",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.41001
+  },
+  {
+    "place_id": 344566804,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 11599004126,
+    "boundingbox": [
+      "48.5083841",
+      "48.5084841",
+      "-4.0782041",
+      "-4.0781041"
+    ],
+    "lat": "48.5084341",
+    "lon": "-4.0781541",
+    "display_name": "63, Rue du Général de Gaulle, Creac'h Kelenn, Cité Marine, Landivisiau, Morlaix, Finistère, Brittany, Metropolitan France, 29400, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.7200099999999999
+  },
+  {
+    "place_id": 252167450,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1867957299,
+    "boundingbox": [
+      "48.3589986",
+      "48.3590986",
+      "-4.2606899",
+      "-4.2605899"
+    ],
+    "lat": "48.3590486",
+    "lon": "-4.2606399",
+    "display_name": "Daoulas, Place Saint-Yves, Pen ar Guer, Veillenec Izella, Daoulas, Brest, Finistère, Brittany, Metropolitan France, 29460, France",
+    "class": "amenity",
+    "type": "post_office",
+    "importance": 0.21000999999999997
+  },
+  {
+    "place_id": 252121038,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 2085019748,
+    "boundingbox": [
+      "48.4077537",
+      "48.4078537",
+      "-4.4034547",
+      "-4.4033547"
+    ],
+    "lat": "48.4078037",
+    "lon": "-4.4034047",
+    "display_name": "48, Rue Danton, Coatmez, Le Relecq-Kerhuon, Brest, Finistère, Brittany, Metropolitan France, 29480, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.7200099999999999
+  },
+  {
+    "place_id": 252123060,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 2108727919,
+    "boundingbox": [
+      "48.4369044",
+      "48.4370044",
+      "-4.4083354",
+      "-4.4082354"
+    ],
+    "lat": "48.4369544",
+    "lon": "-4.4082854",
+    "display_name": "85, Rue Anne de Bretagne, Ker Anna, Guipavas, Brest, Finistère, Brittany, Metropolitan France, 29490, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.7200099999999999
+  },
+  {
+    "place_id": 252187324,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3218386726,
+    "boundingbox": [
+      "48.1015648",
+      "48.1016648",
+      "-4.0002835",
+      "-4.0001835"
+    ],
+    "lat": "48.1016148",
+    "lon": "-4.0002335",
+    "display_name": "8, Rue de la Victoire, Quénéac’h Du, Rosculec, Briec, Quimper, Finistère, Brittany, Metropolitan France, 29510, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.7200099999999999
+  },
+  {
+    "place_id": 251917576,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 31118924,
+    "boundingbox": [
+      "48.1877759",
+      "48.1901812",
+      "-3.8188762",
+      "-3.8173504"
+    ],
+    "lat": "48.1890547",
+    "lon": "-3.8181793",
+    "display_name": "Rue du Général de Gaulle, Résidence de Porzh al Leur, Châteauneuf-du-Faou, Châteaulin, Finistère, Brittany, Metropolitan France, 29520, France",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.91001
+  },
+  {
+    "place_id": 252240491,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3230952976,
+    "boundingbox": [
+      "48.2774153",
+      "48.2775153",
+      "-4.5966501",
+      "-4.5965501"
+    ],
+    "lat": "48.2774653",
+    "lon": "-4.5966001",
+    "display_name": "12, Quai Gustave Toudouze, Lannic, Camaret-sur-Mer, Châteaulin, Finistère, Brittany, Metropolitan France, 29570, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.8200099999999999
+  },
+  {
+    "place_id": 252180947,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 120603722,
+    "boundingbox": [
+      "48.2517201",
+      "48.2545643",
+      "-4.0882378",
+      "-4.0845769"
+    ],
+    "lat": "48.2529993",
+    "lon": "-4.0860942",
+    "display_name": "Rue de Quimper, Logodec, Pont-de-Buis-lès-Quimerch, Châteaulin, Finistère, Brittany, Metropolitan France, 29590, France",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 1.11001
+  },
+  {
+    "place_id": 251948934,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3243971054,
+    "boundingbox": [
+      "48.5778763",
+      "48.5779763",
+      "-3.827921",
+      "-3.827821"
+    ],
+    "lat": "48.5779263",
+    "lon": "-3.827871",
+    "display_name": "3, Place des Otages, Morlaix, Finistère, Brittany, Metropolitan France, 29600, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 251969995,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 236310744,
+    "boundingbox": [
+      "48.6461515",
+      "48.6471108",
+      "-3.7168004",
+      "-3.7164581"
+    ],
+    "lat": "48.6465727",
+    "lon": "-3.7165406",
+    "display_name": "Place Tanguy Prigent, Kernitron, Lanmeur, Morlaix, Finistère, Brittany, Metropolitan France, 29620, France",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 251967712,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 68739118,
+    "boundingbox": [
+      "48.6957459",
+      "48.6964014",
+      "-3.7926316",
+      "-3.7923328"
+    ],
+    "lat": "48.6960908",
+    "lon": "-3.7924695",
+    "display_name": "Place du Général Leclerc, Feunteunigou, Plougasnou, Morlaix, Finistère, Brittany, Metropolitan France, 29630, France",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 254536392,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 636368389,
+    "boundingbox": [
+      "47.9789152",
+      "47.9790926",
+      "-4.189127",
+      "-4.1884546"
+    ],
+    "lat": "47.9789718",
+    "lon": "-4.1887408",
+    "display_name": "Route de Pouldreuzic, Ty Pin, Pluguffan, Quimper, Finistère, Brittany, Metropolitan France, 29700, France",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.5100099999999999
+  },
+  {
+    "place_id": 254526187,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 7380875679,
+    "boundingbox": [
+      "47.9853985",
+      "47.9854985",
+      "-4.4256223",
+      "-4.4255223"
+    ],
+    "lat": "47.9854485",
+    "lon": "-4.4255723",
+    "display_name": "Café des sports, 5, Rue du Centre, Penity, Plozévet, Quimper, Finistère, Brittany, Metropolitan France, 29710, France",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 254527445,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 7619712275,
+    "boundingbox": [
+      "47.9549262",
+      "47.9550262",
+      "-4.3601913",
+      "-4.3600913"
+    ],
+    "lat": "47.9549762",
+    "lon": "-4.3601413",
+    "display_name": "1, Rue de Plozévet, Kergroaz, Kernoel, Pouldreuzic, Quimper, Finistère, Brittany, Metropolitan France, 29710, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 252218169,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 361088867,
+    "boundingbox": [
+      "48.0004808",
+      "48.0005783",
+      "-4.3381045",
+      "-4.3380005"
+    ],
+    "lat": "48.000529",
+    "lon": "-4.3380488",
+    "display_name": "Rue des Écoles, Ar Hoat, Landudec, Quimper, Finistère, Brittany, Metropolitan France, 29710, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.5100099999999999
+  },
+  {
+    "place_id": 254518953,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3208194531,
+    "boundingbox": [
+      "47.7948459",
+      "47.7949459",
+      "-4.2823009",
+      "-4.2822009"
+    ],
+    "lat": "47.7948959",
+    "lon": "-4.2822509",
+    "display_name": "58, Rue de la Marine, Le Port, Men Meur, Le Guilvinec, Guilvinec, Quimper, Finistère, Brittany, Metropolitan France, 29730, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.7200099999999999
+  },
+  {
+    "place_id": 254590991,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1413122049,
+    "boundingbox": [
+      "47.7977616",
+      "47.7978616",
+      "-4.2148077",
+      "-4.2147077"
+    ],
+    "lat": "47.7978116",
+    "lon": "-4.2147577",
+    "display_name": "À l'Escale, 6, Rue du Port, Kerandraon, Lesconil, Plobannalec-Lesconil, Quimper, Finistère, Brittany, Metropolitan France, 29740, France",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 254587561,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 365778977,
+    "boundingbox": [
+      "47.8220753",
+      "47.8224926",
+      "-4.2471398",
+      "-4.2380681"
+    ],
+    "lat": "47.8220753",
+    "lon": "-4.2426762",
+    "display_name": "Route de Penmarc'h, Kerleusquenet Nevez, Plobannalec, Plobannalec-Lesconil, Quimper, Finistère, Brittany, Metropolitan France, 29740, France",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 254587562,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3196938916,
+    "boundingbox": [
+      "47.8329018",
+      "47.8330018",
+      "-4.1840138",
+      "-4.1839138"
+    ],
+    "lat": "47.8329518",
+    "lon": "-4.1839638",
+    "display_name": "11, Rue du Général de Gaulle, Pen Allée, Loctudy, Quimper, Finistère, Brittany, Metropolitan France, 29750, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.7200099999999999
+  },
+  {
+    "place_id": 254523585,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 23992371,
+    "boundingbox": [
+      "47.8158609",
+      "47.817636",
+      "-4.3737625",
+      "-4.3670438"
+    ],
+    "lat": "47.8166293",
+    "lon": "-4.3702922",
+    "display_name": "Rue Pierre Semard, Pouloupry, Penmarc'h, Quimper, Finistère, Brittany, Metropolitan France, 29760, France",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 252233983,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 845840274,
+    "boundingbox": [
+      "48.0238586",
+      "48.0239586",
+      "-4.5375006",
+      "-4.5374006"
+    ],
+    "lat": "48.0239086",
+    "lon": "-4.5374506",
+    "display_name": "Bureau du Port, 3, Quai Anatole France, Le Castel, Roz Criben, Audierne, Quimper, Finistère, Brittany, Metropolitan France, 29770, France",
+    "class": "office",
+    "type": "yes",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 252235371,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 850574045,
+    "boundingbox": [
+      "48.0267541",
+      "48.026828",
+      "-4.5548708",
+      "-4.5546208"
+    ],
+    "lat": "48.0268139",
+    "lon": "-4.5547896",
+    "display_name": "Rue de Kerivoas, Kerivoas, Audierne, Quimper, Finistère, Brittany, Metropolitan France, 29770, France",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.5100099999999999
+  },
+  {
+    "place_id": 252108717,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 161084691,
+    "boundingbox": [
+      "48.4507051",
+      "48.4508787",
+      "-4.2597766",
+      "-4.2579398"
+    ],
+    "lat": "48.4507917",
+    "lon": "-4.2588375",
+    "display_name": "Rue Hervé de Guébriant, Kerdoué, La Petite Palud, Landerneau, Brest, Finistère, Brittany, Metropolitan France, 29800, France",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.5100099999999999
+  },
+  {
+    "place_id": 252278675,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 128911972,
+    "boundingbox": [
+      "48.4250373",
+      "48.425134",
+      "-4.5708741",
+      "-4.5707267"
+    ],
+    "lat": "48.4250373",
+    "lon": "-4.5707267",
+    "display_name": "Route de Saint-Renan, Kerébars, Guilers, Brest, Finistère, Brittany, Metropolitan France, 29820, France",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 252277008,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 918873540,
+    "boundingbox": [
+      "48.4244092",
+      "48.4246405",
+      "-4.5588122",
+      "-4.5584306"
+    ],
+    "lat": "48.4245641",
+    "lon": "-4.5586234",
+    "display_name": "Place de la Libération, Le Louc'h, Guilers, Brest, Finistère, Brittany, Metropolitan France, 29820, France",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 252115691,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 2122705706,
+    "boundingbox": [
+      "48.4508631",
+      "48.4509631",
+      "-4.4654557",
+      "-4.4653557"
+    ],
+    "lat": "48.4509131",
+    "lon": "-4.4654057",
+    "display_name": "7, Place des Fusillés, L'Enclos, Gouesnou, Brest, Finistère, Brittany, Metropolitan France, 29850, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 252070484,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 112178683,
+    "boundingbox": [
+      "48.5022409",
+      "48.5039134",
+      "-4.4273286",
+      "-4.426823"
+    ],
+    "lat": "48.5030955",
+    "lon": "-4.4270828",
+    "display_name": "Rue Marcel Bouguen, Ruberel, Plabennec, Brest, Finistère, Brittany, Metropolitan France, 29860, France",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 252112711,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 5115613,
+    "boundingbox": [
+      "48.4926777",
+      "48.493123",
+      "-4.4328652",
+      "-4.4324849"
+    ],
+    "lat": "48.4930366",
+    "lon": "-4.4325385",
+    "display_name": "Route de Brest, San Langis, Scaven, Plabennec, Brest, Finistère, Brittany, Metropolitan France, 29860, France",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.5100099999999999
+  },
+  {
+    "place_id": 254659474,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3205667554,
+    "boundingbox": [
+      "47.8978159",
+      "47.8979159",
+      "-3.9104054",
+      "-3.9103054"
+    ],
+    "lat": "47.8978659",
+    "lon": "-3.9103554",
+    "display_name": "51, Rue du Poteau Vert, Le Poteau-Vert, Concarneau, Quimper, Finistère, Brittany, Metropolitan France, 29900, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 254646952,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 97457226,
+    "boundingbox": [
+      "47.8714484",
+      "47.8718278",
+      "-3.9073344",
+      "-3.9069031"
+    ],
+    "lat": "47.8716569",
+    "lon": "-3.907115",
+    "display_name": "Rue de Trégunc, Roudoulic, Le Rouz, Concarneau, Quimper, Finistère, Brittany, Metropolitan France, 29900, France",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.5100099999999999
+  },
+  {
+    "place_id": 254657652,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 98538547,
+    "boundingbox": [
+      "47.8877964",
+      "47.8880047",
+      "-3.9208113",
+      "-3.9205167"
+    ],
+    "lat": "47.887900450000004",
+    "lon": "-3.920663324981449",
+    "display_name": "Résidence de la Maison-Blanche, Kerautret, Concarneau, Quimper, Finistère, Brittany, Metropolitan France, 29900, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.7100099999999999
+  },
+  {
+    "place_id": 254642690,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 7376227064,
+    "boundingbox": [
+      "47.8550476",
+      "47.8551476",
+      "-3.8512009",
+      "-3.8511009"
+    ],
+    "lat": "47.8550976",
+    "lon": "-3.8511509",
+    "display_name": "12, Rue de Pont-Aven, Kergleuhan, Kerhallon Vian, Lambell, Trégunc, Quimper, Finistère, Brittany, Metropolitan France, 29910, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 254680314,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 97165712,
+    "boundingbox": [
+      "47.8554988",
+      "47.8560221",
+      "-3.7482736",
+      "-3.7479835"
+    ],
+    "lat": "47.8558038",
+    "lon": "-3.7480894",
+    "display_name": "Rue Émile Bernard, Roz An Bidou, Pont-Aven, Quimper, Finistère, Brittany, Metropolitan France, 29930, France",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 251546737,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 6020728805,
+    "boundingbox": [
+      "48.1091876",
+      "48.1092876",
+      "-1.6836726",
+      "-1.6835726"
+    ],
+    "lat": "48.1092376",
+    "lon": "-1.6836226",
+    "display_name": "Sofinco, 7, Place de Bretagne, Les Lices, Centre-Ville, Centre, Quartiers Centre, Rennes, Ille-et-Vilaine, Brittany, Metropolitan France, 35000, France",
+    "class": "office",
+    "type": "financial",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 251549582,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5866254567,
+    "boundingbox": [
+      "48.1048157",
+      "48.1049157",
+      "-1.6796809",
+      "-1.6795809"
+    ],
+    "lat": "48.1048657",
+    "lon": "-1.6796309",
+    "display_name": "Le Colombier, 7, Place du Colombier, Colombier - Champ de Mars, Centre, Quartiers Centre, Rennes, Ille-et-Vilaine, Brittany, Metropolitan France, 35000, France",
+    "class": "shop",
+    "type": "newsagent",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 251556904,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 11152484557,
+    "boundingbox": [
+      "48.1047839",
+      "48.1048839",
+      "-1.6505618",
+      "-1.6504618"
+    ],
+    "lat": "48.1048339",
+    "lon": "-1.6505118",
+    "display_name": "66, Boulevard Villebois-Mareuil, Cimetière de l'Est, La Pommeraie, Quartiers Sud-Est, Rennes, Ille-et-Vilaine, Brittany, Metropolitan France, 35042, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.41000999999999993
+  },
+  {
+    "place_id": 251547614,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5022930895,
+    "boundingbox": [
+      "48.1083258",
+      "48.1084258",
+      "-1.6780205",
+      "-1.6779205"
+    ],
+    "lat": "48.1083758",
+    "lon": "-1.6779705",
+    "display_name": "Rêve Ligne, 14, Rue Maréchal Joffre, Les Lices, Centre-Ville, Centre, Quartiers Centre, Rennes, Ille-et-Vilaine, Brittany, Metropolitan France, 35000, France",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 251568159,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3909879767,
+    "boundingbox": [
+      "48.1119739",
+      "48.1120739",
+      "-1.6792751",
+      "-1.6791751"
+    ],
+    "lat": "48.1120239",
+    "lon": "-1.6792251",
+    "display_name": "4, Rue d'Estrées, Les Lices, Centre-Ville, Centre, Quartiers Centre, Rennes, Ille-et-Vilaine, Brittany, Metropolitan France, 35000, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 251659574,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 845415323,
+    "boundingbox": [
+      "48.5510596",
+      "48.551144",
+      "-1.7518402",
+      "-1.7516017"
+    ],
+    "lat": "48.5511161",
+    "lon": "-1.7516866",
+    "display_name": "Rue Auguste Lejamptel, Belle-Lande, Dol-de-Bretagne, Saint-Malo, Ille-et-Vilaine, Brittany, Metropolitan France, 35120, France",
+    "class": "highway",
+    "type": "living_street",
+    "importance": 0.7100099999999999
+  },
+  {
+    "place_id": 255438464,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 184027983,
+    "boundingbox": [
+      "47.9420539",
+      "47.9421464",
+      "-1.2325943",
+      "-1.2322657"
+    ],
+    "lat": "47.9421045",
+    "lon": "-1.2324393",
+    "display_name": "Rue Notre-Dame, La Guerche-de-Bretagne, Fougères-Vitré, Ille-et-Vilaine, Brittany, Metropolitan France, 35130, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.91001
+  },
+  {
+    "place_id": 251504278,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 896161538,
+    "boundingbox": [
+      "48.0883511",
+      "48.0886158",
+      "-1.6207742",
+      "-1.6199965"
+    ],
+    "lat": "48.0883886",
+    "lon": "-1.6199965",
+    "display_name": "Place des Marelles, La Touche Annette, Chantepie, Rennes, Ille-et-Vilaine, Brittany, Metropolitan France, 35135, France",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 255435386,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 27691355,
+    "boundingbox": [
+      "47.9594577",
+      "47.960499",
+      "-1.497491",
+      "-1.496492"
+    ],
+    "lat": "47.9599584",
+    "lon": "-1.4969549",
+    "display_name": "Rue du Docteur Roux, Janzé, Fougères-Vitré, Ille-et-Vilaine, Brittany, Metropolitan France, 35150, France",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 251606984,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5293986830,
+    "boundingbox": [
+      "48.1377909",
+      "48.1378909",
+      "-1.9538772",
+      "-1.9537772"
+    ],
+    "lat": "48.1378409",
+    "lon": "-1.9538272",
+    "display_name": "Mag'Presse, 9, Rue Saint-Nicolas, Domaine de la Rivière, Le Pont aux Ânes, Montfort-sur-Meu, Rennes, Ille-et-Vilaine, Brittany, Metropolitan France, 35160, France",
+    "class": "shop",
+    "type": "newsagent",
+    "importance": 0.7200099999999999
+  },
+  {
+    "place_id": 251541550,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 379435665,
+    "boundingbox": [
+      "48.082396",
+      "48.084018",
+      "-1.682232",
+      "-1.676985"
+    ],
+    "lat": "48.083202850000006",
+    "lon": "-1.679491080588235",
+    "display_name": "Centre Alma, 5, Rue du Bosphore, Les Chalais, Bréquigny, Quartiers Sud-Ouest, Rennes, Ille-et-Vilaine, Brittany, Metropolitan France, 35200, France",
+    "class": "shop",
+    "type": "mall",
+    "importance": 0.3626514353057295
+  },
+  {
+    "place_id": 255434537,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 648652610,
+    "boundingbox": [
+      "47.9126534",
+      "47.913246",
+      "-1.3865412",
+      "-1.3795948"
+    ],
+    "lat": "47.9126585",
+    "lon": "-1.3831294",
+    "display_name": "Rue Auguste Pavie, Retiers, Fougères-Vitré, Ille-et-Vilaine, Brittany, Metropolitan France, 35240, France",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 251672818,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5908209473,
+    "boundingbox": [
+      "48.6755553",
+      "48.6756553",
+      "-1.8520174",
+      "-1.8519174"
+    ],
+    "lat": "48.6756053",
+    "lon": "-1.8519674",
+    "display_name": "40, Rue du Port, Les Hauts de la Houle, Cancale, Saint-Malo, Ille-et-Vilaine, Brittany, Metropolitan France, 35260, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 251820764,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 97577176,
+    "boundingbox": [
+      "48.1920456",
+      "48.1928803",
+      "-2.2004881",
+      "-2.1954184"
+    ],
+    "lat": "48.1925356",
+    "lon": "-2.197908",
+    "display_name": "Rue Henri Letort, La Chupière, Saint-Méen-le-Grand, Rennes, Ille-et-Vilaine, Brittany, Metropolitan France, 35290, France",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.7100099999999999
+  },
+  {
+    "place_id": 251825206,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 85070603,
+    "boundingbox": [
+      "48.0018205",
+      "48.0018938",
+      "-2.1010664",
+      "-2.0993602"
+    ],
+    "lat": "48.0018581",
+    "lon": "-2.1001705",
+    "display_name": "Rue Nationale, Le Chêne Vert, Plélan-le-Grand, Rennes, Ille-et-Vilaine, Brittany, Metropolitan France, 35380, France",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 251779927,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 10612079758,
+    "boundingbox": [
+      "48.6362074",
+      "48.6363074",
+      "-2.0146538",
+      "-2.0145538"
+    ],
+    "lat": "48.6362574",
+    "lon": "-2.0146038",
+    "display_name": "Au panier d'Italie, 25, Rue Ville-Pépin, Saint-Servan, Saint-Servan - Solidor, Saint-Malo, Ille-et-Vilaine, Brittany, Metropolitan France, 35400, France",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 251788762,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 51982432,
+    "boundingbox": [
+      "48.6508664",
+      "48.6508953",
+      "-2.0045494",
+      "-2.0025736"
+    ],
+    "lat": "48.6508841",
+    "lon": "-2.0037847",
+    "display_name": "Boulevard Villebois-Mareuil, Rocabey, Rocabey - Alsace - Gare, Saint-Malo, Ille-et-Vilaine, Brittany, Metropolitan France, 35400, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.5100099999999999
+  },
+  {
+    "place_id": 255407230,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 112400908,
+    "boundingbox": [
+      "47.8251225",
+      "47.8252035",
+      "-1.8430539",
+      "-1.8422995"
+    ],
+    "lat": "47.8251679",
+    "lon": "-1.8426699",
+    "display_name": "Place de l'Église, La Fosse Rouge, Le Puits Bérouard, Guipry, Guipry-Messac, Redon, Ille-et-Vilaine, Brittany, Metropolitan France, 35480, France",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 251431482,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 2500807114,
+    "boundingbox": [
+      "48.123213",
+      "48.123313",
+      "-1.2118399",
+      "-1.2117399"
+    ],
+    "lat": "48.123263",
+    "lon": "-1.2117899",
+    "display_name": "La Mie Câline, 23, Rue Garengeot, Hospice St Nicolas, Vitré, Fougères-Vitré, Ille-et-Vilaine, Brittany, Metropolitan France, 35500, France",
+    "class": "shop",
+    "type": "bakery",
+    "importance": 0.4200099999999999
+  },
+  {
+    "place_id": 251457377,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 289053130,
+    "boundingbox": [
+      "48.2171262",
+      "48.2176311",
+      "-1.6972901",
+      "-1.697173"
+    ],
+    "lat": "48.2174078",
+    "lon": "-1.6972402",
+    "display_name": "Place de l'Église, Zone d'Activités de la Métairie, Le Bas Bourg, Melesse, Rennes, Ille-et-Vilaine, Brittany, Metropolitan France, 35520, France",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 255400470,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4144427143,
+    "boundingbox": [
+      "47.8101147",
+      "47.8102147",
+      "-1.9372197",
+      "-1.9371197"
+    ],
+    "lat": "47.8101647",
+    "lon": "-1.9371697",
+    "display_name": "Super U, 47, Rue de l'Avenir, La Crochardais, Pipriac, Redon, Ille-et-Vilaine, Brittany, Metropolitan France, 35550, France",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.7200099999999999
+  },
+  {
+    "place_id": 254878534,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 285929239,
+    "boundingbox": [
+      "47.6515031",
+      "47.6515293",
+      "-2.0848738",
+      "-2.0845727"
+    ],
+    "lat": "47.6515293",
+    "lon": "-2.0848738",
+    "display_name": "Place de la République, Le Châtelet, Redon, Ille-et-Vilaine, Brittany, Metropolitan France, 35600, France",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 251477660,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4225471748,
+    "boundingbox": [
+      "48.1267008",
+      "48.1268008",
+      "-1.6643742",
+      "-1.6642742"
+    ],
+    "lat": "48.1267508",
+    "lon": "-1.6643242",
+    "display_name": "4, Place du Gros Chêne, Maurepas, Maurepas - Patton, Quartiers Nord-Est, Rennes, Ille-et-Vilaine, Brittany, Metropolitan France, 35700, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 251484163,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 4931214,
+    "boundingbox": [
+      "48.1304175",
+      "48.1313886",
+      "-1.656523",
+      "-1.6520084"
+    ],
+    "lat": "48.1309801",
+    "lon": "-1.6541967",
+    "display_name": "Rue Alexandre Lefas, Le Gast, Maurepas, Maurepas - Patton, Quartiers Nord-Est, Rennes, Ille-et-Vilaine, Brittany, Metropolitan France, 35700, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.7100099999999999
+  },
+  {
+    "place_id": 251479072,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4225503075,
+    "boundingbox": [
+      "48.1358076",
+      "48.1359076",
+      "-1.6673399",
+      "-1.6672399"
+    ],
+    "lat": "48.1358576",
+    "lon": "-1.6672899",
+    "display_name": "3, Rue du Morbihan, La Bellangerais, Maurepas - Patton, Quartiers Nord-Est, Rennes, Ille-et-Vilaine, Brittany, Metropolitan France, 35064, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.51001
+  },
+  {
+    "place_id": 251775573,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 814150956,
+    "boundingbox": [
+      "48.636273",
+      "48.6363256",
+      "-2.0679472",
+      "-2.0674827"
+    ],
+    "lat": "48.636273",
+    "lon": "-2.0676964",
+    "display_name": "Boulevard Albert Lacroix, La Gare, Saint-Énogat, Dinard, Saint-Malo, Ille-et-Vilaine, Brittany, Metropolitan France, 35800, France",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.5100099999999999
+  },
+  {
+    "place_id": 255415769,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 182029157,
+    "boundingbox": [
+      "47.9782203",
+      "47.9782295",
+      "-1.7180905",
+      "-1.7177812"
+    ],
+    "lat": "47.9782295",
+    "lon": "-1.7177812",
+    "display_name": "Rue du Point du Jour, Le Courtil du Bois, Laillé, Rennes, Ille-et-Vilaine, Brittany, Metropolitan France, 35890, France",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.7100099999999999
+  },
+  {
+    "place_id": 255079442,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1658091222,
+    "boundingbox": [
+      "47.2352738",
+      "47.2353738",
+      "-1.5832793",
+      "-1.5831793"
+    ],
+    "lat": "47.2353238",
+    "lon": "-1.5832293",
+    "display_name": "73, Route de Vannes, Breil - Barberie, Nantes, Loire-Atlantique, Pays de la Loire, Metropolitan France, 44100, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 255453622,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 679802337,
+    "boundingbox": [
+      "47.7054947",
+      "47.7056986",
+      "-1.3879261",
+      "-1.3876595"
+    ],
+    "lat": "47.7055952",
+    "lon": "-1.3877979",
+    "display_name": "Rue du Général Eisenhower, Châteaubriant, Châteaubriant-Ancenis, Loire-Atlantique, Pays de la Loire, Metropolitan France, 44110, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.5100099999999999
+  },
+  {
+    "place_id": 255337676,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 302666333,
+    "boundingbox": [
+      "47.3308437",
+      "47.3310589",
+      "-1.6233833",
+      "-1.6232347"
+    ],
+    "lat": "47.330931",
+    "lon": "-1.623295",
+    "display_name": "Place de la Liberté, La Belle Étoile, Treillières, Châteaubriant-Ancenis, Loire-Atlantique, Pays de la Loire, Metropolitan France, 44119, France",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.4850099999999999
+  },
+  {
+    "place_id": 255384002,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 46781739,
+    "boundingbox": [
+      "47.4758258",
+      "47.475993",
+      "-1.7636678",
+      "-1.7634914"
+    ],
+    "lat": "47.475885250000005",
+    "lon": "-1.7635797293687294",
+    "display_name": "Maison de la Presse, 8, Rue de Nantes, Blain, Châteaubriant-Ancenis, Loire-Atlantique, Pays de la Loire, Metropolitan France, 44130, France",
+    "class": "shop",
+    "type": "newsagent",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 255203907,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 135862379,
+    "boundingbox": [
+      "47.0805864",
+      "47.0846488",
+      "-1.2819371",
+      "-1.2781671"
+    ],
+    "lat": "47.0826085",
+    "lon": "-1.2800476",
+    "display_name": "Route de Cugand, Nid d'Oie, Clisson, Nantes, Loire-Atlantique, Pays de la Loire, Metropolitan France, 44190, France",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.5100099999999999
+  },
+  {
+    "place_id": 254990198,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 49331356,
+    "boundingbox": [
+      "47.1142204",
+      "47.1145973",
+      "-2.0985603",
+      "-2.0979488"
+    ],
+    "lat": "47.1143163",
+    "lon": "-2.0982337",
+    "display_name": "Place de la Gare, Le Chabut, Pornic, Saint-Nazaire, Loire-Atlantique, Pays de la Loire, Metropolitan France, 44210, France",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.7100099999999999
+  },
+  {
+    "place_id": 254991832,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 37791559,
+    "boundingbox": [
+      "47.1215682",
+      "47.1218319",
+      "-2.111351",
+      "-2.1109637"
+    ],
+    "lat": "47.12169725",
+    "lon": "-2.11115764730521",
+    "display_name": "Boulevard de Linz, Domaine du Calypso, Pornic, Saint-Nazaire, Loire-Atlantique, Pays de la Loire, Metropolitan France, 44210, France",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.5100099999999999
+  },
+  {
+    "place_id": 255124144,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1607541263,
+    "boundingbox": [
+      "47.2066609",
+      "47.2067609",
+      "-1.5058495",
+      "-1.5057495"
+    ],
+    "lat": "47.2067109",
+    "lon": "-1.5057995",
+    "display_name": "20, Rue Maurice Daniel, La Métairie, Saint-Sébastien-sur-Loire, Nantes, Loire-Atlantique, Pays de la Loire, Metropolitan France, 44230, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.8200099999999999
+  },
+  {
+    "place_id": 254981770,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 62471599,
+    "boundingbox": [
+      "47.2469485",
+      "47.2469902",
+      "-2.1664574",
+      "-2.1654285"
+    ],
+    "lat": "47.2469485",
+    "lon": "-2.1658769",
+    "display_name": "Rue du Général de Gaulle, Saint-Brevin-les-Pins, Saint-Nazaire, Loire-Atlantique, Pays de la Loire, Metropolitan France, 44250, France",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 1.0100099999999999
+  },
+  {
+    "place_id": 255380449,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 94220108,
+    "boundingbox": [
+      "47.3596432",
+      "47.3597677",
+      "-1.863198",
+      "-1.8620832"
+    ],
+    "lat": "47.3597296",
+    "lon": "-1.8626134",
+    "display_name": "Rue des Musiciens, Malville, Saint-Nazaire, Loire-Atlantique, Pays de la Loire, Metropolitan France, 44260, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 255117620,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1702673364,
+    "boundingbox": [
+      "47.2354176",
+      "47.2355176",
+      "-1.5030727",
+      "-1.5029727"
+    ],
+    "lat": "47.2354676",
+    "lon": "-1.5030227",
+    "display_name": "4, Place du Vieux Doulon, Le Vieux Doulon, Doulon - Bottière, Nantes, Loire-Atlantique, Pays de la Loire, Metropolitan France, 44300, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.7200099999999999
+  },
+  {
+    "place_id": 255346990,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 8278989058,
+    "boundingbox": [
+      "47.270509",
+      "47.270609",
+      "-1.519219",
+      "-1.519119"
+    ],
+    "lat": "47.270559",
+    "lon": "-1.519169",
+    "display_name": "6, Rue Barbara, Saint-Joseph de Porterie, Nantes Erdre, Nantes, Loire-Atlantique, Pays de la Loire, Metropolitan France, 44477, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.41000999999999993
+  },
+  {
+    "place_id": 254957552,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4609313416,
+    "boundingbox": [
+      "47.3273616",
+      "47.3274616",
+      "-2.4275788",
+      "-2.4274788"
+    ],
+    "lat": "47.3274116",
+    "lon": "-2.4275288",
+    "display_name": "Maison de la Presse, 29, Rue Saint-Michel, Le Guesny, Intramuros, Guérande, Saint-Nazaire, Loire-Atlantique, Pays de la Loire, Metropolitan France, 44350, France",
+    "class": "shop",
+    "type": "newsagent",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 255374916,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 27938932,
+    "boundingbox": [
+      "47.2716413",
+      "47.2737601",
+      "-1.7792826",
+      "-1.7759129"
+    ],
+    "lat": "47.2726122",
+    "lon": "-1.7773989",
+    "display_name": "Route de Coueron, Les Fontenelles, Les Mortiers, Saint-Étienne-de-Montluc, Nantes, Loire-Atlantique, Pays de la Loire, Metropolitan France, 44360, France",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 255155248,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9434920368,
+    "boundingbox": [
+      "47.1769516",
+      "47.1770516",
+      "-1.5593845",
+      "-1.5592845"
+    ],
+    "lat": "47.1770016",
+    "lon": "-1.5593345",
+    "display_name": "U Drive, 22, Rue de la Galarnière, La Coquetière, La Houssais, Rezé, Nantes, Loire-Atlantique, Pays de la Loire, Metropolitan France, 44400, France",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 255340239,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 191715407,
+    "boundingbox": [
+      "47.2996625",
+      "47.3011334",
+      "-1.5006919",
+      "-1.4995378"
+    ],
+    "lat": "47.3003561",
+    "lon": "-1.5000656",
+    "display_name": "Boulevard de Vinci, La Fleuriaye, La Buchetière, Carquefou, Nantes, Loire-Atlantique, Pays de la Loire, Metropolitan France, 44470, France",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 254904897,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 93260318,
+    "boundingbox": [
+      "47.2889554",
+      "47.2900583",
+      "-2.0293483",
+      "-2.0266598"
+    ],
+    "lat": "47.28945145",
+    "lon": "-2.027603479995868",
+    "display_name": "Quai Sadi Carnot, Paimbœuf, Saint-Nazaire, Loire-Atlantique, Pays de la Loire, Metropolitan France, 44560, France",
+    "class": "place",
+    "type": "square",
+    "importance": 0.53501
+  },
+  {
+    "place_id": 254929010,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3569532193,
+    "boundingbox": [
+      "47.257552",
+      "47.257652",
+      "-2.2645218",
+      "-2.2644218"
+    ],
+    "lat": "47.257602",
+    "lon": "-2.2644718",
+    "display_name": "Yves Rocher, 332, Route de la Côte d'Amour, Parc d'Activité Océanis, La Vecquerie, Saint-Nazaire, Loire-Atlantique, Pays de la Loire, Metropolitan France, 44600, France",
+    "class": "shop",
+    "type": "beauty",
+    "importance": 0.7200099999999999
+  },
+  {
+    "place_id": 254978623,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4041999284,
+    "boundingbox": [
+      "47.1280447",
+      "47.1281447",
+      "-2.2156073",
+      "-2.2155073"
+    ],
+    "lat": "47.1280947",
+    "lon": "-2.2155573",
+    "display_name": "Mag Presse, 9, Grande Rue, Préfailles, Saint-Nazaire, Loire-Atlantique, Pays de la Loire, Metropolitan France, 44770, France",
+    "class": "shop",
+    "type": "newsagent",
+    "importance": 0.4200099999999999
+  },
+  {
+    "place_id": 255078006,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 143898809,
+    "boundingbox": [
+      "47.2195956",
+      "47.2196261",
+      "-1.623831",
+      "-1.6236573"
+    ],
+    "lat": "47.2196018",
+    "lon": "-1.623693",
+    "display_name": "Boulevard Salvador Allende, Villagexpo, Village Expo, Preux, Saint-Herblain, Nantes, Loire-Atlantique, Pays de la Loire, Metropolitan France, 44800, France",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.5100099999999999
+  },
+  {
+    "place_id": 255170442,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 8376116921,
+    "boundingbox": [
+      "47.1472934",
+      "47.1473934",
+      "-1.5301311",
+      "-1.5300311"
+    ],
+    "lat": "47.1473434",
+    "lon": "-1.5300811",
+    "display_name": "34, Rue Georges Clemenceau, Les Sorinières, Nantes, Loire-Atlantique, Pays de la Loire, Metropolitan France, 44840, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 254823955,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3663767820,
+    "boundingbox": [
+      "47.6557906",
+      "47.6558906",
+      "-2.7573841",
+      "-2.7572841"
+    ],
+    "lat": "47.6558406",
+    "lon": "-2.7573341",
+    "display_name": "Tabac des Halles, 5, Place des Lices, Centre - Le Port, Vannes, Morbihan, Brittany, Metropolitan France, 56000, France",
+    "class": "shop",
+    "type": "tobacco;newsagent",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 254824991,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1586252292,
+    "boundingbox": [
+      "47.6543777",
+      "47.6544777",
+      "-2.7582907",
+      "-2.7581907"
+    ],
+    "lat": "47.6544277",
+    "lon": "-2.7582407",
+    "display_name": "2, Place Gambetta, Centre - Le Port, Vannes, Morbihan, Brittany, Metropolitan France, 56000, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 254823344,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 4347575,
+    "boundingbox": [
+      "47.658753",
+      "47.6590521",
+      "-2.7570446",
+      "-2.7552272"
+    ],
+    "lat": "47.6589758",
+    "lon": "-2.7560461",
+    "display_name": "Rue du Mené, Saint-Patern, Centre - Le Port, Vannes, Morbihan, Brittany, Metropolitan France, 56000, France",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.5100099999999999
+  },
+  {
+    "place_id": 254856983,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 30133476,
+    "boundingbox": [
+      "47.8043258",
+      "47.8044937",
+      "-2.3806655",
+      "-2.3789627"
+    ],
+    "lat": "47.8044937",
+    "lon": "-2.3806655",
+    "display_name": "Rue du Maréchal Leclerc, Brunel, Malestroit, Vannes, Morbihan, Brittany, Metropolitan France, 56140, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.6000099999999999
+  },
+  {
+    "place_id": 254835497,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 90234992,
+    "boundingbox": [
+      "47.641601",
+      "47.641716",
+      "-2.949961",
+      "-2.949748"
+    ],
+    "lat": "47.641662",
+    "lon": "-2.9498545083720833",
+    "display_name": "29, Rue Hoche, Gorhlér, Le Bono, Vannes, Morbihan, Brittany, Metropolitan France, 56400, France",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.41000999999999993
+  },
+  {
+    "place_id": 254746281,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4046773007,
+    "boundingbox": [
+      "47.7470792",
+      "47.7471792",
+      "-3.359785",
+      "-3.359685"
+    ],
+    "lat": "47.7471292",
+    "lon": "-3.359735",
+    "display_name": "Coop Breizh, 60, Rue du Port, Cité Salvador Allende, Lorient, Morbihan, Brittany, Metropolitan France, 56100, France",
+    "class": "shop",
+    "type": "music",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 254752225,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 48773000,
+    "boundingbox": [
+      "47.7341582",
+      "47.7343778",
+      "-3.3928359",
+      "-3.3884005"
+    ],
+    "lat": "47.7342887",
+    "lon": "-3.3906436",
+    "display_name": "Rue du Ter, Kerolay, Kervénanec, Lorient, Morbihan, Brittany, Metropolitan France, 56100, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 254852044,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3722130725,
+    "boundingbox": [
+      "47.9534465",
+      "47.9535465",
+      "-2.5477349",
+      "-2.5476349"
+    ],
+    "lat": "47.9534965",
+    "lon": "-2.5476849",
+    "display_name": "Le Guethenoc, 11, Place Notre-Dame, Butte Saint-Laurent, Le Village de Beaufort, Josselin, Pontivy, Morbihan, Brittany, Metropolitan France, 56120, France",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 254851448,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 181230994,
+    "boundingbox": [
+      "47.9617454",
+      "47.9617721",
+      "-2.5453445",
+      "-2.5449125"
+    ],
+    "lat": "47.9617454",
+    "lon": "-2.5451552",
+    "display_name": "Rue de l'Écusson, Le Semis, Josselin, Pontivy, Morbihan, Brittany, Metropolitan France, 56120, France",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.8100099999999999
+  },
+  {
+    "place_id": 254893540,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 26806347,
+    "boundingbox": [
+      "47.519267",
+      "47.5199041",
+      "-2.3007552",
+      "-2.2985067"
+    ],
+    "lat": "47.5195363",
+    "lon": "-2.2995348",
+    "display_name": "Rue Saint-James, La Roche-Bernard, Vannes, Morbihan, Brittany, Metropolitan France, 56130, France",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.7100099999999999
+  },
+  {
+    "place_id": 254856747,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 27446540,
+    "boundingbox": [
+      "47.8096732",
+      "47.8100008",
+      "-2.3832599",
+      "-2.3826239"
+    ],
+    "lat": "47.8098603",
+    "lon": "-2.3829166",
+    "display_name": "Place du Bouffay, Brunel, Malestroit, Vannes, Morbihan, Brittany, Metropolitan France, 56140, France",
+    "class": "highway",
+    "type": "living_street",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 254636051,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4579980800,
+    "boundingbox": [
+      "47.4834855",
+      "47.4835855",
+      "-3.1191981",
+      "-3.1190981"
+    ],
+    "lat": "47.4835355",
+    "lon": "-3.1191481",
+    "display_name": "Maison de la Presse, 42, Rue de Verdun, Kermorvan, Port Maria, Quiberon, Lorient, Morbihan, Brittany, Metropolitan France, 56170, France",
+    "class": "shop",
+    "type": "newsagent",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 254635781,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9310891345,
+    "boundingbox": [
+      "47.4785454",
+      "47.4786454",
+      "-3.1244766",
+      "-3.1243766"
+    ],
+    "lat": "47.4785954",
+    "lon": "-3.1244266",
+    "display_name": "37, Rue de Port Maria, Kervozès, Port Maria, Quiberon, Lorient, Morbihan, Brittany, Metropolitan France, 56170, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.7200099999999999
+  },
+  {
+    "place_id": 254891879,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 52003189,
+    "boundingbox": [
+      "47.5533991",
+      "47.553728",
+      "-2.4825166",
+      "-2.4823088"
+    ],
+    "lat": "47.5536225",
+    "lon": "-2.4824034980267236",
+    "display_name": "Place Saint-Julien, Muzillac, Vannes, Morbihan, Brittany, Metropolitan France, 56190, France",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 254874138,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3718049037,
+    "boundingbox": [
+      "47.7648188",
+      "47.7649188",
+      "-2.1313513",
+      "-2.1312513"
+    ],
+    "lat": "47.7648688",
+    "lon": "-2.1313013",
+    "display_name": "Le Havane, 15, Rue Montauban, Graslia, La Gacilly, Vannes, Morbihan, Brittany, Metropolitan France, 56200, France",
+    "class": "shop",
+    "type": "tobacco",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 254889154,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 690855764,
+    "boundingbox": [
+      "47.6776334",
+      "47.6777953",
+      "-2.2964333",
+      "-2.2946072"
+    ],
+    "lat": "47.6777394",
+    "lon": "-2.2955217",
+    "display_name": "Rue de la Croix d'Alain, Hameau de la Grée Rubis, Malansac, Vannes, Morbihan, Brittany, Metropolitan France, 56220, France",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.91001
+  },
+  {
+    "place_id": 254888110,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 144007303,
+    "boundingbox": [
+      "47.6601914",
+      "47.660765",
+      "-2.4530987",
+      "-2.4523359"
+    ],
+    "lat": "47.6605065",
+    "lon": "-2.452672874190565",
+    "display_name": "Place Gombaud, Les Buttes, Questembert, Vannes, Morbihan, Brittany, Metropolitan France, 56230, France",
+    "class": "place",
+    "type": "square",
+    "importance": 0.63501
+  },
+  {
+    "place_id": 254761456,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9379989836,
+    "boundingbox": [
+      "47.7017744",
+      "47.7018744",
+      "-3.4321665",
+      "-3.4320665"
+    ],
+    "lat": "47.7018244",
+    "lon": "-3.4321165",
+    "display_name": "4, Place Gustave Le Floch, Lomener, Plœmeur, Lorient, Morbihan, Brittany, Metropolitan France, 56270, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 254756664,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 467595802,
+    "boundingbox": [
+      "47.7339368",
+      "47.7347436",
+      "-3.428806",
+      "-3.4273187"
+    ],
+    "lat": "47.73448045000001",
+    "lon": "-3.4280558668527967",
+    "display_name": "Place de Bretagne, Rue de Kervam, Sainte-Anne, Kerloudan, Plœmeur, Lorient, Morbihan, Brittany, Metropolitan France, 56270, France",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.41000999999999993
+  },
+  {
+    "place_id": 251843011,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3919324826,
+    "boundingbox": [
+      "48.0679218",
+      "48.0680218",
+      "-2.9653419",
+      "-2.9652419"
+    ],
+    "lat": "48.0679718",
+    "lon": "-2.9652919",
+    "display_name": "12, Place du Martray, Pontivy, Morbihan, Brittany, Metropolitan France, 56300, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 254728336,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 6992057829,
+    "boundingbox": [
+      "47.7752634",
+      "47.7753634",
+      "-3.0100548",
+      "-3.0099548"
+    ],
+    "lat": "47.7753134",
+    "lon": "-3.0100048",
+    "display_name": "Le Fum'Grat'Presse, 14, Place du Marché, Porh Couédic, Kermac, Pluvigner, Lorient, Morbihan, Brittany, Metropolitan France, 56330, France",
+    "class": "shop",
+    "type": "newsagent",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 254627355,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9107654747,
+    "boundingbox": [
+      "47.3476321",
+      "47.3477321",
+      "-3.1575418",
+      "-3.1574418"
+    ],
+    "lat": "47.3476821",
+    "lon": "-3.1574918",
+    "display_name": "5, Rue de la Citadelle, Pontorgo, Le Palais, Lorient, Morbihan, Brittany, Metropolitan France, 56360, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.8200099999999999
+  },
+  {
+    "place_id": 254636918,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 133620465,
+    "boundingbox": [
+      "47.3685251",
+      "47.371201",
+      "-3.2224706",
+      "-3.2211905"
+    ],
+    "lat": "47.3697144",
+    "lon": "-3.2212443",
+    "display_name": "Rue du Chemin Neuf, Port Puce, Sauzon, Lorient, Morbihan, Brittany, Metropolitan France, 56360, France",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.7100099999999999
+  },
+  {
+    "place_id": 254791746,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 40006607,
+    "boundingbox": [
+      "47.527015",
+      "47.5274068",
+      "-2.769107",
+      "-2.768174"
+    ],
+    "lat": "47.527210999999994",
+    "lon": "-2.7687123701298644",
+    "display_name": "Place de la Duchesse Anne, Kergroëz, Sarzeau, Vannes, Morbihan, Brittany, Metropolitan France, 56370, France",
+    "class": "place",
+    "type": "square",
+    "importance": 0.8350099999999999
+  },
+  {
+    "place_id": 254868421,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 29420272,
+    "boundingbox": [
+      "47.9035943",
+      "47.9061687",
+      "-2.1138486",
+      "-2.1130412"
+    ],
+    "lat": "47.9049232",
+    "lon": "-2.1133097",
+    "display_name": "Rue de la Croix Logée, Les Tilleuls, La Doue, Guer, Vannes, Morbihan, Brittany, Metropolitan France, 56380, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.5100099999999999
+  },
+  {
+    "place_id": 254730875,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1012523920,
+    "boundingbox": [
+      "47.679993",
+      "47.6801973",
+      "-3.0006298",
+      "-3.0003488"
+    ],
+    "lat": "47.68008625",
+    "lon": "-3.000489821973476",
+    "display_name": "Auray, Passerelle de la Gare, Dakar, Auray, Lorient, Morbihan, Brittany, Metropolitan France, 56400, France",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.41000999999999993
+  },
+  {
+    "place_id": 254734087,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 156085672,
+    "boundingbox": [
+      "47.6342261",
+      "47.6393524",
+      "-3.1538127",
+      "-3.1487623"
+    ],
+    "lat": "47.6374969",
+    "lon": "-3.1520004",
+    "display_name": "Rue des Menhirs, Kerzerho, Erdeven, Lorient, Morbihan, Brittany, Metropolitan France, 56410, France",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 254808859,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5179003547,
+    "boundingbox": [
+      "47.6284299",
+      "47.6285299",
+      "-2.6496523",
+      "-2.6495523"
+    ],
+    "lat": "47.6284799",
+    "lon": "-2.6496023",
+    "display_name": "Tabac Presse, 1, Rue de la Chapelle, Le Poulprio, Theix, Theix-Noyalo, Vannes, Morbihan, Brittany, Metropolitan France, 56450, France",
+    "class": "shop",
+    "type": "newsagent",
+    "importance": 0.7200099999999999
+  },
+  {
+    "place_id": 254808988,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 210298902,
+    "boundingbox": [
+      "47.6316338",
+      "47.6317228",
+      "-2.6621655",
+      "-2.6616595"
+    ],
+    "lat": "47.6316955",
+    "lon": "-2.6619901",
+    "display_name": "Rue de Rosmadec, Le Landy, Ténac, Theix, Theix-Noyalo, Vannes, Morbihan, Brittany, Metropolitan France, 56450, France",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 254777582,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 560031872,
+    "boundingbox": [
+      "47.585433",
+      "47.5856595",
+      "-3.0267196",
+      "-3.0266952"
+    ],
+    "lat": "47.5855459",
+    "lon": "-3.0266952",
+    "display_name": "Cours des Quais, Kerhino, La Trinité-sur-Mer, Lorient, Morbihan, Brittany, Metropolitan France, 56470, France",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.7100099999999999
+  },
+  {
+    "place_id": 254849027,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 725068628,
+    "boundingbox": [
+      "47.8870286",
+      "47.8871286",
+      "-2.8357926",
+      "-2.8356926"
+    ],
+    "lat": "47.8870786",
+    "lon": "-2.8357426",
+    "display_name": "Maison de la Presse, 15, Rue du Fil, Locminé, Pontivy, Morbihan, Brittany, Metropolitan France, 56500, France",
+    "class": "shop",
+    "type": "newsagent",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 254847948,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 62143460,
+    "boundingbox": [
+      "47.8954806",
+      "47.8965017",
+      "-2.8394215",
+      "-2.8382782"
+    ],
+    "lat": "47.8964746",
+    "lon": "-2.8384943",
+    "display_name": "ZA du Bronut, ZA Bronut, Kerfrapic, Moréac, Pontivy, Morbihan, Brittany, Metropolitan France, 56500, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.5100099999999999
+  },
+  {
+    "place_id": 254693629,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 25951224,
+    "boundingbox": [
+      "47.7891409",
+      "47.790891",
+      "-3.4160698",
+      "-3.4118797"
+    ],
+    "lat": "47.7899681",
+    "lon": "-3.4138261",
+    "display_name": "Rue de la Gare, Kerzec-Izel, Quéven, Lorient, Morbihan, Brittany, Metropolitan France, 56530, France",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 251839014,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 125625610,
+    "boundingbox": [
+      "48.0690923",
+      "48.0695517",
+      "-2.7515702",
+      "-2.7513763"
+    ],
+    "lat": "48.0691873",
+    "lon": "-2.7514131",
+    "display_name": "Rue de la Poste, La Ville Moisan, Saint-Gouvry, Rohan, Pontivy, Morbihan, Brittany, Metropolitan France, 56580, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.8100099999999999
+  },
+  {
+    "place_id": 254702288,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9504282819,
+    "boundingbox": [
+      "47.7669345",
+      "47.7670345",
+      "-3.3556175",
+      "-3.3555175"
+    ],
+    "lat": "47.7669845",
+    "lon": "-3.3555675",
+    "display_name": "112, Rue Jean Jaurès, Kerentrech, Lanester, Lorient, Morbihan, Brittany, Metropolitan France, 56600, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 254738997,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1899029027,
+    "boundingbox": [
+      "47.6949918",
+      "47.7349918",
+      "-3.3519637",
+      "-3.3119637"
+    ],
+    "lat": "47.7149918",
+    "lon": "-3.3319637",
+    "display_name": "La Croizetière, Riantec, Lorient, Morbihan, Brittany, Metropolitan France, 56670, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.56001
+  },
+  {
+    "place_id": 254728020,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 37789758,
+    "boundingbox": [
+      "47.7621063",
+      "47.7635144",
+      "-3.1208313",
+      "-3.120378"
+    ],
+    "lat": "47.7630072",
+    "lon": "-3.1206068",
+    "display_name": "Rue de l'Église, Kerhelo, Landévant, Lorient, Morbihan, Brittany, Metropolitan France, 56690, France",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.5100099999999999
+  },
+  {
+    "place_id": 254708694,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 25068777,
+    "boundingbox": [
+      "47.804462",
+      "47.8056127",
+      "-3.2773536",
+      "-3.27734"
+    ],
+    "lat": "47.805033",
+    "lon": "-3.2773496",
+    "display_name": "Rue du Puits Ferré, Saint-Caradec, Le Guiriel, Hennebont, Lorient, Morbihan, Brittany, Metropolitan France, 56700, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.5100099999999999
+  },
+  {
+    "place_id": 254794443,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 39217847,
+    "boundingbox": [
+      "47.5205772",
+      "47.522028",
+      "-2.5764479",
+      "-2.5746099"
+    ],
+    "lat": "47.5211182",
+    "lon": "-2.5756277",
+    "display_name": "Rue d'Ambon, Damgan, Vannes, Morbihan, Brittany, Metropolitan France, 56750, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 254861605,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 39412381,
+    "boundingbox": [
+      "47.9337023",
+      "47.9345801",
+      "-2.400293",
+      "-2.399285"
+    ],
+    "lat": "47.9341367",
+    "lon": "-2.3997831",
+    "display_name": "Rue du Lac, La Vieille Ville, La Croix aux Loups, Ploërmel, Pontivy, Morbihan, Brittany, Metropolitan France, 56800, France",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.5100099999999999
+  },
+  {
+    "place_id": 254801676,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1393115917,
+    "boundingbox": [
+      "47.651353",
+      "47.651453",
+      "-2.726957",
+      "-2.726857"
+    ],
+    "lat": "47.651403",
+    "lon": "-2.726907",
+    "display_name": "46, Route de Nantes, Le Poulfanc, La Poussinière, Séné, Vannes, Morbihan, Brittany, Metropolitan France, 56860, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.4200099999999999
+  },
+  {
+    "place_id": 254786201,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 26805908,
+    "boundingbox": [
+      "47.6200912",
+      "47.6211121",
+      "-2.9181643",
+      "-2.9126232"
+    ],
+    "lat": "47.6206578",
+    "lon": "-2.9155367",
+    "display_name": "Rue des Frères Le Guénédal, Prat Bras, Chapelaine, Baden, Vannes, Morbihan, Brittany, Metropolitan France, 56870, France",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 254818221,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 119397305,
+    "boundingbox": [
+      "47.6842792",
+      "47.6844752",
+      "-2.7624447",
+      "-2.7614134"
+    ],
+    "lat": "47.6844752",
+    "lon": "-2.7624447",
+    "display_name": "Impasse Gavrinis, Les Trois Rois, Coëtdigo-Kerlis, Saint-Avé, Vannes, Morbihan, Brittany, Metropolitan France, 56890, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 254846609,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1824486583,
+    "boundingbox": [
+      "47.9602838",
+      "47.9603838",
+      "-2.9788896",
+      "-2.9787896"
+    ],
+    "lat": "47.9603338",
+    "lon": "-2.9788396",
+    "display_name": "1, Rue de la Libération, Kermadec, Kerdelavant, Pluméliau, Pluméliau-Bieuzy, Pontivy, Morbihan, Brittany, Metropolitan France, 56930, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 73000687,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 890301322,
+    "boundingbox": [
+      "43.6045434",
+      "43.6046434",
+      "3.879729",
+      "3.879829"
+    ],
+    "lat": "43.6045934",
+    "lon": "3.879779",
+    "display_name": "Les Alizés, 14, Rue Jules Ferry, Gares, Centre, Montpellier, Hérault, Occitania, Metropolitan France, 34062, France",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.10000999999999996
+  },
+  {
+    "place_id": 251776982,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 6343285049,
+    "boundingbox": [
+      "48.6282523",
+      "48.6482523",
+      "-2.267239",
+      "-2.247239"
+    ],
+    "lat": "48.6382523",
+    "lon": "-2.257239",
+    "display_name": "L'Isle, Le Port-Jacquet, Saint-Cast-le-Guildo, Dinan, Côtes-d'Armor, Brittany, Metropolitan France, 22380, France",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.9600099999999999
+  },
+  {
+    "place_id": 251728295,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 304591843,
+    "boundingbox": [
+      "48.6332357",
+      "48.6375729",
+      "-2.8352205",
+      "-2.8321106"
+    ],
+    "lat": "48.6360282",
+    "lon": "-2.8329498",
+    "display_name": "Rue Pasteur, Ponto, Étables-sur-Mer, Binic-Étables-sur-Mer, Saint-Brieuc, Côtes-d'Armor, Brittany, Metropolitan France, 22680, France",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.7100099999999999
+  },
+  {
+    "place_id": 252254537,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 130910481,
+    "boundingbox": [
+      "48.3784759",
+      "48.3794424",
+      "-4.6030382",
+      "-4.6004428"
+    ],
+    "lat": "48.37896875",
+    "lon": "-4.601804084445844",
+    "display_name": "Centre commercial de Castel Nevez, Kroas-Saliou, Plouzané, Brest, Finistère, Brittany, Metropolitan France, 29280, France",
+    "class": "landuse",
+    "type": "retail",
+    "importance": 0.51001
+  },
+  {
+    "place_id": 255122892,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 5553499,
+    "boundingbox": [
+      "47.2193924",
+      "47.2271149",
+      "-1.5354549",
+      "-1.5244037"
+    ],
+    "lat": "47.22349",
+    "lon": "-1.5301157",
+    "display_name": "Dalby, Malakoff - Saint-Donatien, Nantes, Loire-Atlantique, Pays de la Loire, Metropolitan France, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45000999999999997
+  },
+  {
+    "place_id": 254772532,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9805165716,
+    "boundingbox": [
+      "47.5838895",
+      "47.5839895",
+      "-3.078923",
+      "-3.078823"
+    ],
+    "lat": "47.5839395",
+    "lon": "-3.078873",
+    "display_name": "2, Place de la Chapelle, Kerallan, Kerlois, Carnac, Lorient, Morbihan, Brittany, Metropolitan France, 56340, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.7200099999999999
+  },
+  {
+    "place_id": 254872451,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 8181496749,
+    "boundingbox": [
+      "47.8172404",
+      "47.8173404",
+      "-2.1348576",
+      "-2.1347576"
+    ],
+    "lat": "47.8172904",
+    "lon": "-2.1348076",
+    "display_name": "Le Narval, 8, Place de l'Étoile, L'Hôtellerie, Carentoir, Vannes, Morbihan, Brittany, Metropolitan France, 56910, France",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 251859024,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 33632293,
+    "boundingbox": [
+      "48.4659529",
+      "48.466353",
+      "-2.5136085",
+      "-2.512235"
+    ],
+    "lat": "48.46610825",
+    "lon": "-2.5129225115384615",
+    "display_name": "Gare SNCF, Boulevard Jobert, Lamballe, Lamballe-Armor, Saint-Brieuc, Côtes-d'Armor, Brittany, Metropolitan France, 22400, France",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.40001
+  },
+  {
+    "place_id": 251897362,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4017885112,
+    "boundingbox": [
+      "48.2357703",
+      "48.2358703",
+      "-3.3175333",
+      "-3.3174333"
+    ],
+    "lat": "48.2358203",
+    "lon": "-3.3174833",
+    "display_name": "Maison de la Presse, 6, Place de la République, Campostal, Bonne Nouvelle, Rostrenen, Guingamp, Côtes-d'Armor, Brittany, Metropolitan France, 22110, France",
+    "class": "shop",
+    "type": "newsagent",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 251863458,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3645094365,
+    "boundingbox": [
+      "48.4945558",
+      "48.4946558",
+      "-2.7291969",
+      "-2.7290969"
+    ],
+    "lat": "48.4946058",
+    "lon": "-2.7291469",
+    "display_name": "Flunch, 1, Rue Jules Verne, Langueux, Saint-Brieuc, Côtes-d'Armor, Brittany, Metropolitan France, 22360, France",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 252021757,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 242069256,
+    "boundingbox": [
+      "48.7787252",
+      "48.7792543",
+      "-3.0452384",
+      "-3.0446817"
+    ],
+    "lat": "48.778987400000005",
+    "lon": "-3.04493263452048",
+    "display_name": "Place de la République, Tournebride, Paimpol, Guingamp, Côtes-d'Armor, Brittany, Metropolitan France, 22500, France",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.7100099999999999
+  },
+  {
+    "place_id": 254555968,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1102191107,
+    "boundingbox": [
+      "47.9939933",
+      "47.9940933",
+      "-4.0927596",
+      "-4.0926596"
+    ],
+    "lat": "47.9940433",
+    "lon": "-4.0927096",
+    "display_name": "Gare SNCF, Avenue de la Gare, La Tourelle, Quimper, Finistère, Brittany, Metropolitan France, 29000, France",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.51001
+  },
+  {
+    "place_id": 254582804,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 34619227,
+    "boundingbox": [
+      "47.8651646",
+      "47.8664291",
+      "-4.2242786",
+      "-4.2229629"
+    ],
+    "lat": "47.865645349999994",
+    "lon": "-4.223613408778383",
+    "display_name": "Place de la République, Lambour, Douric, Pont-l'Abbé, Quimper, Finistère, Brittany, Metropolitan France, 29120, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.7100099999999999
+  },
+  {
+    "place_id": 252226506,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 25592104,
+    "boundingbox": [
+      "48.2484537",
+      "48.2489428",
+      "-4.4896334",
+      "-4.4879737"
+    ],
+    "lat": "48.2485633",
+    "lon": "-4.4892417",
+    "display_name": "Boulevard Pierre Mendès France, Le Bourg, Crozon, Châteaulin, Finistère, Brittany, Metropolitan France, 29160, France",
+    "class": "railway",
+    "type": "abandoned",
+    "importance": 0.41000999999999993
+  },
+  {
+    "place_id": 252107255,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 8826283029,
+    "boundingbox": [
+      "48.4535278",
+      "48.4536278",
+      "-4.2564526",
+      "-4.2563526"
+    ],
+    "lat": "48.4535778",
+    "lon": "-4.2564026",
+    "display_name": "Gare SNCF, Avenue Mathieu Donnart, Kerdoué, La Gare, Landerneau, Brest, Finistère, Brittany, Metropolitan France, 29800, France",
+    "class": "amenity",
+    "type": "bicycle_rental",
+    "importance": 0.40001
+  },
+  {
+    "place_id": 252269117,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1702309953,
+    "boundingbox": [
+      "48.4036432",
+      "48.4037432",
+      "-4.507553",
+      "-4.507453"
+    ],
+    "lat": "48.4036932",
+    "lon": "-4.507503",
+    "display_name": "10, Place Napoléon III, Kergoat, Bellevue, Brest, Finistère, Brittany, Metropolitan France, 29200, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 251923994,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4508990189,
+    "boundingbox": [
+      "48.2749579",
+      "48.2750579",
+      "-3.5823042",
+      "-3.5822042"
+    ],
+    "lat": "48.2750079",
+    "lon": "-3.5822542",
+    "display_name": "Pressing du poher, 2, Rue Charles Le Goff, Cité de Kerhénor, Carhaix-Plouguer, Châteaulin, Finistère, Brittany, Metropolitan France, 29270, France",
+    "class": "shop",
+    "type": "dry_cleaning",
+    "importance": 0.8200099999999999
+  },
+  {
+    "place_id": 254678151,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 94971630,
+    "boundingbox": [
+      "47.870137",
+      "47.871137",
+      "-3.588528",
+      "-3.5859025"
+    ],
+    "lat": "47.870649",
+    "lon": "-3.5875488349428615",
+    "display_name": "Centre commercial Intermarché, Rond-Point Irène Joliot-Curie, Kervidanou 3, Keringant, Mellac, Quimper, Finistère, Brittany, Metropolitan France, 29300, France",
+    "class": "shop",
+    "type": "mall",
+    "importance": 0.31001
+  },
+  {
+    "place_id": 252091739,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 310322461,
+    "boundingbox": [
+      "48.5046914",
+      "48.5049716",
+      "-4.0763684",
+      "-4.0727336"
+    ],
+    "lat": "48.5048046",
+    "lon": "-4.0744138",
+    "display_name": "Boulevard de la République, Kervanous, Cité Marine, Landivisiau, Morlaix, Finistère, Brittany, Metropolitan France, 29400, France",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.6100099999999999
+  },
+  {
+    "place_id": 252081720,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 11404222676,
+    "boundingbox": [
+      "48.6573967",
+      "48.6574967",
+      "-4.1747863",
+      "-4.1746863"
+    ],
+    "lat": "48.6574467",
+    "lon": "-4.1747363",
+    "display_name": "4, Rue du Général Leclerc, Crinou, Résidence Marne, Plouescat, Morlaix, Finistère, Brittany, Metropolitan France, 29430, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.62001
+  },
+  {
+    "place_id": 254562578,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 500951025,
+    "boundingbox": [
+      "47.9986831",
+      "47.9987831",
+      "-4.0569335",
+      "-4.0568335"
+    ],
+    "lat": "47.9987331",
+    "lon": "-4.0568835",
+    "display_name": "Poste du Rouilllen, 81, Avenue du Rouillen, La Salleverte, Le Poulduïc, Le Rouillen, Ergué-Gabéric, Quimper, Finistère, Brittany, Metropolitan France, 29500, France",
+    "class": "amenity",
+    "type": "post_office",
+    "importance": 0.5200099999999999
+  },
+  {
+    "place_id": 252176882,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 101267403,
+    "boundingbox": [
+      "48.2943255",
+      "48.2945254",
+      "-4.179626",
+      "-4.1788364"
+    ],
+    "lat": "48.2944621",
+    "lon": "-4.1791814",
+    "display_name": "Rue du Général de Gaulle, Quiella, Le Bourg, Le Faou, Châteaulin, Finistère, Brittany, Metropolitan France, 29590, France",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.91001
+  },
+  {
+    "place_id": 252177160,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5667523306,
+    "boundingbox": [
+      "48.2869244",
+      "48.3069244",
+      "-4.1875335",
+      "-4.1675335"
+    ],
+    "lat": "48.2969244",
+    "lon": "-4.1775335",
+    "display_name": "Quiella, Ty Men, Le Faou, Châteaulin, Finistère, Brittany, Metropolitan France, 29590, France",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.66001
+  },
+  {
+    "place_id": 251949951,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 8188139990,
+    "boundingbox": [
+      "48.5774671",
+      "48.5775671",
+      "-3.8340766",
+      "-3.8339766"
+    ],
+    "lat": "48.5775171",
+    "lon": "-3.8340266",
+    "display_name": "Gare SNCF, Place Colonel Rol-Tanguy, Morlaix, Finistère, Brittany, Metropolitan France, 29600, France",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.51001
+  }
+]

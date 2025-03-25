@@ -1,3 +1,23 @@
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
+
+console.log(123);
+fetch("keltia.json")
+    .then(response => response.json())
+    .then(data => {
+        data.forEach(librairie => {
+            L.marker([parseFloat(librairie.lat), parseFloat(librairie.lon)]).addTo(map)
+                .bindPopup(`<b>Adresse :</b><br>${librairie.display_name}`);
+        });
+        console.log(data)
+    })
+    .catch(error => console.error("Erreur de chargement du fichier JSON :", error));
+
+const data = await fetch("keltia.json").then(r => r.json())
+// const jsonData = await data.json()
+
+
 function checkAnswers() {
     let score = 0;
     const totalQuestions = 3;
